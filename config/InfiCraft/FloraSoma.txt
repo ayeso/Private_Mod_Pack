@@ -83,7 +83,7 @@ corruptor {
     I:"Corruptor Spawn Height"=0
     I:"Corruptor Spawn Range"=128
     I:"Corruptor Spawn Size"=30
-    B:"Spread Corruption"=true
+    B:"Spread Corruption"=false
 }
 
 
