@@ -1,7 +1,6 @@
 * Advanced Machines  4.7
 * Advanced Solar Panels  3.3.2
 * BuildCraft	3.4.3
-* ComputerCraft - if we keep RP	1.481
 * Enderstorage	1.3.1.1 
 * Extra Bees	1.5.0.2
 * ExtraBiomesXL	3.9.0
@@ -9,7 +8,7 @@
 * Forestry	2.0.0.9* 
 * Gravitation Suite	1.6
 * GregTech Mod	2.78e
-* * IC2 NuclearControl	1.4.6
+* IC2 NuclearControl	1.4.6
 * IC2	1.1.5
 * Iron Chests	5.0.1.246
 * MFFS	2.2.8.3.6
