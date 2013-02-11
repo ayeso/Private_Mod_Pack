@@ -1,3 +1,5 @@
+Private FTB Mod Pack for FTB-CRAFT and GOML
+
 * Advanced Machines  4.7
 * Advanced Solar Panels  3.3.2
 * BC Addon: Advance Power Systems  0.2.7.2
