@@ -2,8 +2,8 @@ http://jenkins.getonmylevel.ca/job/Configs_for_Private_Modpack/
 
 Private FTB Mod Pack for FTB-CRAFT and GOML
 
-* Advanced Machines  4.7
-* Advanced Solar Panels  3.3.2
+* Advanced Machines __Current:__ 4.7b - __Latest:__ 4.7b - https://github.com/ayeso/Private_Mod_Pack/wiki/Advanced_Machines
+* Advanced Solar Panels __Current:__ 3.3.2 - __Latest:__3.3.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/Advanced_Solars
 * BC Addon: Advance Power Systems  0.2.7.2
 * BiblioCraft	1.0.0
 * BrainTech Agricultures Datachip Package	1.7.1
