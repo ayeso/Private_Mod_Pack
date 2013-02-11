@@ -28,9 +28,6 @@
 * StevesCarts	2.0.0.a49
 * Thaumcraft	3.0.3
 * ThermalExpansion	2.2.1
-* Traincraft	-
-* Twilight Forest	-
-* Voxelmenu	-
 * Wireless Redstone Chicken Bones Edition	1.3.2.3
 * Xycraft	0.9.44
 * Thaumic Bees	1.3.0d
@@ -50,12 +47,6 @@
 * Jammy Furniture	V4.1
 * Chest Transporter	1.1.5
 * BiblioCraft	1.0.0
-* Balkon's Weapon Mod	1.1.0
 * Millenare?	
-* Àrs Magic?	
-* Runic dust mod?	
 * Season Mod	
-* CraftGuide	
-* Greg SGCraft	
-* Liquid Metals	
-* Forgotten Nature	
+* Greg SGCraft		
