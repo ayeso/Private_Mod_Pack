@@ -35,7 +35,7 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * Obsidiplates __Current:__ 1.2.0.3 - __Latest:__ 1.2.0.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/Obsidiplates
 * PetroGen __Current:__ 1.2.1 - __Latest:__ 1.2.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/PetroGen
 * Plugins for Forestry 2 __Current:__ Build 28 - __Latest:__ Build 28 - https://github.com/ayeso/Private_Mod_Pack/wiki/Plugins_for_Forestry
-* Railcraft	6.15.2.0 __Current:__ 6.15.2.0 - __Latest:__ 6.15.3.0 - https://github.com/ayeso/Private_Mod_Pack/wiki/Railcraft
+* Railcraft __Current:__ 6.15.2.0 - __Latest:__ 6.15.3.0 - https://github.com/ayeso/Private_Mod_Pack/wiki/Railcraft
 * Redpower __Current:__ 2.0pre6 - __Latest:__ 2.0pre6 - https://github.com/ayeso/Private_Mod_Pack/wiki/Redpower
 * Rei's minimap __Current:__ 3.2_06 - __Latest:__ 3.2_06 - https://github.com/ayeso/Private_Mod_Pack/wiki/Reis_minimap
 * Season Mod __Current:__ ??? - __Latest:__ ??? - https://github.com/ayeso/Private_Mod_Pack/wiki/Season
