@@ -1,0 +1,37 @@
+# Configuration file
+# Generated on 2/11/13 11:44 AM
+
+####################
+# block
+####################
+
+block {
+    I:"Colored Cobblestone"=3227
+    I:"Colored Cracked Brick"=3230
+    I:"Colored Fancy Brick"=3232
+    I:"Colored Mossy Brick"=3229
+    I:"Colored Square Brick"=3233
+    I:"Colored Stone"=3226
+    I:"Colored Stone Brick"=3228
+    I:"Colored Tiled Brick"=3231
+    I:Marble=3238
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:"All the world is Superfun"=false
+    I:"Colored Stone Chance"=18
+    I:"Colored Stone Height"=64
+    B:"Generate Colored Stone"=true
+    B:"Generate Marble"=true
+    B:"Generate Stratified Stone"=true
+    I:"Marble Height"=64
+    I:"Marble Rarity"=22
+    B:"The sky is Superfun"=false
+}
+
+

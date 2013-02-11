@@ -1,0 +1,25 @@
+# Configuration file
+# Generated on 2/11/13 11:44 AM
+
+####################
+# block
+####################
+
+block {
+    I:"Slime Gel"=3239
+    I:"Slime Pool IDs"=3240
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:"Generate Slime Pools"=true
+    B:"Generate in other dimensions"=true
+    I:"Slime Pool Height"=64
+    I:"Slime Pool Rarity"=30
+}
+
+

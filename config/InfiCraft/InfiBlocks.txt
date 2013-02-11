@@ -1,0 +1,47 @@
+# Configuration file
+# Generated on 2/11/13 11:44 AM
+
+####################
+# block
+####################
+
+block {
+    I:Brick=3283
+    I:Brick_Magic_Slab=3284
+    I:Brownstone=3296
+    I:Brownstone_Magic_Slab=3297
+    I:Carpet=3274
+    I:Chest=3272
+    I:Cracked_Brick=3285
+    I:Cracked_Brick_Magic_Slab=3286
+    I:Crafting_Table=3271
+    I:Fancy_Brick=3287
+    I:Fancy_Brick_Magic_Slab=3288
+    I:Furnace=3273
+    I:Glass=3291
+    I:Glass_Magic_Slab=3293
+    I:Glass_Pane=3292
+    I:Ice_Brick=3294
+    I:Ice_Brick_Magic_Slab=3295
+    I:Magic_Slab_Soil=3276
+    I:Magic_Slab_Stone=3275
+    I:Magic_Slab_Wool=3277
+    I:Stained_Glass=3278
+    I:Stained_Glass_Magic_Slab=3280
+    I:Stained_Glass_Pane=3279
+    I:Stone_Stair_Slab_Pillar=3298
+    I:Storage_Block=3281
+    I:Storage_Block_Magic_Slab=3282
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:Diamond_Chisel=12102
+    I:Iron_Chisel=12101
+}
+
+
