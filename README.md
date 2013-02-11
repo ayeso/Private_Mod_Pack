@@ -1,7 +1,6 @@
 * Advanced Machines  4.7
 * Advanced Solar Panels  3.3.2
 * BuildCraft	3.4.3
-* ChickenChunks	-
 * ComputerCraft - if we keep RP	1.481
 * Enderstorage	1.3.1.1 
 * Extra Bees	1.5.0.2
@@ -14,17 +13,13 @@
 * IC2	1.1.5
 * Iron Chests	5.0.1.246
 * MFFS	2.2.8.3.6
-* MiscPeripherals	-
 * NEI	1.4.5.0
 * NEI Plugins	?
 * Obsidiplates	1.2.0.3
-* OmniTools	-
 * PetroGen	1.2.1
-* Portal Gun	-
 * Railcraft	6.15.2.0
 * Rei's minimap	3.2_06
 * Redpower	2.0pre6
-* SoulShards	-
 * StevesCarts	2.0.0.a49
 * Thaumcraft	3.0.3
 * ThermalExpansion	2.2.1
