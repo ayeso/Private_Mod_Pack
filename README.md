@@ -1,3 +1,5 @@
+http://jenkins.getonmylevel.ca/job/Configs_for_Private_Modpack/
+
 Private FTB Mod Pack for FTB-CRAFT and GOML
 
 * Advanced Machines  4.7
