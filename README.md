@@ -36,7 +36,7 @@ Xycraft	0.9.44
 Thaumic Bees	1.3.0d
 Plugins for Forestry 2	Build 28
 BrainTech Agricultures Datachip Package	1.7.1
-Harvest Craft	1.03
+Harvest Craft	1.03 
 Valve Pipes (and more!)	6
 Charge Pads	2.4.0.64
 Mekanism	5.2.3
