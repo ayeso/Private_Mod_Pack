@@ -4,9 +4,9 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 
 * Advanced Machines __Current:__ 4.7b - __Latest:__ 4.7b - https://github.com/ayeso/Private_Mod_Pack/wiki/Advanced_Machines
 * Advanced Solar Panels __Current:__ 3.3.2 - __Latest:__3.3.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/Advanced_Solars
-* BC Addon: Advance Power Systems   __Current:__ 0.2.7.2 - __Latest:__ 0.2.7.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/Advance_Power_Systems
+* Advance Power Systems   __Current:__ 0.2.7.2 - __Latest:__ 0.2.7.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/Advance_Power_Systems
 * BiblioCraft __Current:__ 1.0.0 - __Latest:__ 1.0.0 - https://github.com/ayeso/Private_Mod_Pack/wiki/BiblioCraft
-* BrainTech Agricultures Datachip Package __Current:__ 1.7.1 - __Latest:__ 1.7.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/BrainTech
+* BrainTech  __Current:__ 1.7.1 - __Latest:__ 1.7.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/BrainTech
 * BuildCraft __Current:__ 3.4.3 - __Latest:__ 3.4.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/BuildCraft
 * Charge Pads __Current:__ 2.4.0.64 - __Latest:__ 2.4.0.64 - https://github.com/ayeso/Private_Mod_Pack/wiki/Charge_Pads
 * Chest Transporter __Current:__ 1.1.5  - __Latest:__ 1.1.5  - https://github.com/ayeso/Private_Mod_Pack/wiki/Chest_Transporter
