@@ -22,11 +22,11 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * IC Addon: Combo Armors __Current:__ 1.11 - __Latest:__ 1.11 - https://github.com/ayeso/Private_Mod_Pack/wiki/Combo_Armors	
 * IC2 __Current:__ 1.1.5 - __Latest:__ 1.1.5 - https://github.com/ayeso/Private_Mod_Pack/wiki/IC2
 * IC2 NuclearControl __Current:__ 1.4.6 - __Latest:__ 1.4.6 - https://github.com/ayeso/Private_Mod_Pack/wiki/IC2_NuclearControl
-* InfiCraft	2013.1.11 __Current:__ 2013.1.11 - __Latest:__ 2013.1.11 - https://github.com/ayeso/Private_Mod_Pack/wiki/InfiCraft
-* Iron Chests	5.0.1.246 __Current:__ 5.0.1.246 - __Latest:__ 5.0.1.246 - https://github.com/ayeso/Private_Mod_Pack/wiki/Iron_Chests
+* InfiCraft __Current:__ 2013.1.11 - __Latest:__ 2013.1.11 - https://github.com/ayeso/Private_Mod_Pack/wiki/InfiCraft
+* Iron Chests __Current:__ 5.0.1.246 - __Latest:__ 5.0.1.246 - https://github.com/ayeso/Private_Mod_Pack/wiki/Iron_Chests
 * Jammy Furniture	V4.1 __Current:__ V4.1 - __Latest:__ V4.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/Jammy_Furniture
-* Mekanism	5.2.3 __Current:__ 5.2.3 - __Latest:__ 5.2.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/Mekanism
-* MFFS	2.2.8.3.6 __Current:__ 4.7b - __Latest:__ 4.7b - https://github.com/ayeso/Private_Mod_Pack/wiki/MFFS
+* Mekanism __Current:__ 5.2.3 - __Latest:__ 5.2.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/Mekanism
+* MFFS __Current:__ 4.7b - __Latest:__ 4.7b - https://github.com/ayeso/Private_Mod_Pack/wiki/MFFS
 * Millenare	 __Current:__ ??? - __Latest:__ ??? - https://github.com/ayeso/Private_Mod_Pack/wiki/Millenare
 * Modular Powersuits __Current:__ ??? - __Latest:__ ??? - https://github.com/ayeso/Private_Mod_Pack/wiki/Modular_Powersuits
 * Mouse Tweaks __Current:__ Beta 4  - __Latest:__ Beta 4  - https://github.com/ayeso/Private_Mod_Pack/wiki/Mouse_Tweaks 
