@@ -1,0 +1,29 @@
+Mod Pack Name:
+Example pack
+
+Mods:
+ModName - Author (spreadsheet/link/page)
+ModName - Author (spreadsheet/link/page)
+ModName - Author (spreadsheet/link/page)
+
+Private Pack Code:
+example
+
+(optional)Permissions:
+link to web site with permissions
+ 
+(optional)Description:
+Example mod pack info file.
+(If this is not included we will just have "Modpack name private server pack")
+
+(optional)Minecraft Version:
+1.4.7
+(If this is not included we will use the latest stable minecraft)
+
+(optional)Pack Version:
+2.3.6
+(If this is not included we will just start at 1 and increment every time you submit an update)
+
+(optional)Pack Author:
+name
+(If this is not included we will use the username of the submitter)
