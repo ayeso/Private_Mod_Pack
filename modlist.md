@@ -48,6 +48,7 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * Thaumcraft __Current:__ 3.0.3 - __Latest:__ 3.0.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/Thaumcraft
 * Thaumic Bees	__Current:__ 1.3.0d - __Latest:__ 1.3.0d - https://github.com/ayeso/Private_Mod_Pack/wiki/Thaumic_Bees
 * ThermalExpansion __Current:__ 2.2.1- __Latest:__ 2.2.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/ThermalExpansion
+* TubeStuff __Current:__ N/A - __Latest:__ N/A - https://github.com/ayeso/Private_Mod_Pack/wiki/TubeStuff
 * Universal Electricity	 __Current:__ ??? - __Latest:__ ??? - https://github.com/ayeso/Private_Mod_Pack/wiki/Universal_Electricity
 * Valve Pipes (and more!) __Current:__ 6 - __Latest:__ 6 - https://github.com/ayeso/Private_Mod_Pack/wiki/Valve_Pipes
 * Wireless Redstone CBE __Current:__ 1.3.2.3 - __Latest:__ 1.3.2.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/WRCBE
