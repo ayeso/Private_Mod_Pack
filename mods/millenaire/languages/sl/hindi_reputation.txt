@@ -1,0 +1,9 @@
+0;Tujec;Mi nismo vajeni tujcev.
+4*64;Znan obraz;Do zdaj še nisi storil niè slabega.
+16*64;Reden obiskovalec;Živijo, $name! Kakšne novice prinašaš?
+64*64;Priljubljen trgovec;Živijo, $name. Kaj bomo sedaj dobili od tebe?
+2*64*64;Prijatelj vasi;$name-ji, vsi te potrjujemo za resniènega prijatelja vasi.
+8*64*64;Eden naših;Nisem mislil, da bo kdaj v naši vasi živel tako prijazen tujec, ampak $name-ji, zdaj si res eden naših!
+-64;Nadloga;Niso nam všeè tujci, še posebej ne tvoje vrste.
+-4*64;Neprijetnež;Kdorkoli te je že vzgojil, zelo si slab. Upamo da bos kmalu odšel.
+-16*64;Sovražnik;Vsako jutro molim pri bogu, da te v svojem življenju ne vidim veè.

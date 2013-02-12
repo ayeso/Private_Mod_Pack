@@ -1,0 +1,135 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment
+
+
+//Byzantine goods
+grapes,1,0,0,512
+wine,2*64,2*64,2,5,3*64,false
+silk,0,20,0,20,30,false
+byzantineiconsmall,3*64,0,0,0,5*64
+byzantineiconmedium,5*64,0,0,0,7*64
+byzantineiconlarge,8*64,0,0,0,10*64
+bricks,16,0,0,1024
+byzantinetiles,32,0,0,1024
+clay,0,8,0,1024
+
+
+
+
+wood,2,1,128,1024
+wood_birch,2,1,128,1024
+
+cobblestone,2,1,128,1024
+stone,5,3,128,1024
+sandstone,6,4,128,1024,8
+glass,5,3,64,512
+iron,25,20,5,10
+bread,10,8,5,10,15
+villageWand,2*64*64,0,0,0,0,true
+egg,20,0,2,4
+wool_white,10,8,0,64,12
+wool_gray,12,0,0,64,32
+wool_red,12,0,0,64,24
+wool_lightblue,12,0,0,64,24
+wool_blue,12,0,0,64,24
+wool_brown,16,0,0,64,18
+wool_pink,16,0,0,64,18
+porkchops,20,0,2,4,32
+beefraw,20,0,2,4,32
+leather,20,15,0,0
+feather,20,0,0,0
+fishraw,5,3,64,124
+bookshelves,16,16,4,8
+tapestry,5*64,0,0,0
+steelPickaxe,2*64,2*64,1,1,5*25
+steelAxe,2*64,2*64,1,1
+steelShovel,2*64,2*64,1,1
+steelHoe,2*64,2*64,1,1
+steelHelmet,1*64,1*64,0,0, 6*25
+steelSword,1*64,1*64,0,0, 2*25
+steelChest,4*64,4*64,0,0, 8*25
+steelLegs,3*64,3*64,0,0, 7*25
+steelBoots,2*64,2*64,0,0, 4*25
+
+
+byzantineHelmet,8*64,0,0,0,,,,10*64*64
+byzantinePlate,16*64,0,0,0,,,,18*64*64
+byzantineLegs,6*64,0,0,0,,,,8*64*64
+byzantineBoots,4*64,0,0,0,,,,6*64*64
+
+byzantineMace,48*64,0,1,1,,,,8*64*64
+
+grapes,1,0,0,512
+cider,64,60,5,10,80
+
+//For viking seller
+yddrasilAmulet,0,0,0,0,32*64
+skollHatiAmulet,0,0,0,0,64*64
+
+//for plant seller
+seeds,0,0,0,0,2
+sapling,0,0,0,0,2
+sapling_pine,0,0,0,0,2
+sapling_birch,0,0,0,0,2
+pumpkin,0,0,0,0,8
+redFlower,0,0,0,0,8
+yellowFlower,0,0,0,0,8
+sugarcane,0,0,0,0,48
+
+//For oriental seller
+cactus,0,0,0,0,16
+diamond,0,0,0,0,6*64
+gold,0,0,0,0,64
+
+//For wool seller    (and market)
+wool_orange,0,0,0,0,14
+wool_magenta,0,0,0,0,40
+wool_lightblue,0,0,0,0,70
+wool_yellow,0,0,0,0,14
+wool_green,0,0,0,0,32
+wool_cyan,0,0,0,0,74
+wool_purple,0,0,0,0,58
+wool_blue,0,64,0,0,74
+wool_red,0,14,0,0,14
+
+//for art seller
+painting,32,0,0,0,48
+dye_white,0,0,0,0,32
+dye_orange,0,0,0,0,4
+dye_magenta,0,0,0,0,32
+dye_lightblue,0,0,0,0,64
+dye_yellow,0,0,0,0,4
+dye_green,0,0,0,0,20
+dye_pink,0,0,0,0,16
+dye_gray,0,0,0,0,24
+dye_lightgray,0,0,0,0,32
+dye_cyan,0,0,0,0,64
+dye_purple,0,0,0,0,48
+dye_blue,0,0,0,0,64
+dye_brown,0,0,0,0,16*64
+dye_red,0,0,0,0,4
+dye_black,0,0,0,0,8
+
+//for food seller
+fishcooked,0,0,0,0,16
+cake,0,0,0,0,128
+
+//for mayan seller
+maize,0,0,0,0,30
+mayangold,0,0,0,0,64*64
+
+//for japanese seller
+paperwall,0,0,0,0,2*64
+thatched,0,0,0,0,1*64
+udon,0,0,0,0,32
+
+//for indian seller
+brickmould,0,0,0,0,2*64
+rice,0,0,0,0,30
+
+//for norman seller
+timberframe_plain,0,0,0,0,64
+timberframe_cross,0,0,0,0,96
+cider,0,0,0,0,2*64
+normanBroadsword,0,0,0,0,2*64*64
+
+

@@ -1,0 +1,5 @@
+max:2;priority:5000;native:Boske Probaton;around:4;startLevel:-1;orientation:3;width:20;length:21;male:shepherd_byzantine;female:shepherd_female_byzantine;tag:sheeps
+startLevel:-1;priority:500
+startLevel:-1;priority:10
+startLevel:-1
+

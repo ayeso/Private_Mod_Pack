@@ -1,0 +1,70 @@
+
+culture.norman=Norman
+
+//Norman:
+villager.abbot=
+villager.carpenter=
+villager.cattleFarmerMale=Cattle Farmer
+villager.cattleFarmerFemale=Cattle Farmer
+villager.boy=Boy
+villager.girl=Girl
+villager.teenagerMale=Youth
+villager.teenagerFemale=Youth
+villager.farmer=
+villager.merchant_viking=
+villager.merchant_weapon=
+villager.merchant_plant=
+villager.merchant_art=
+villager.merchant_wool=
+villager.merchant_food=Food Merchant
+villager.guard=
+villager.guildmaster=
+villager.knight=Knight
+villager.lady=
+villager.lumberman=Lumberman
+villager.merchant=
+villager.miner=
+villager.monk=Monk
+villager.priest=
+villager.seneschal=
+villager.smith=Smith
+villager.wife=Village Woman
+
+villager.innkeeperfemale=Inkeeper
+villager.innkeepermale=Inkeeper
+villager.lonemiller=Miller
+villager.merchant_weapons=
+villager.robberbaron=
+villager.robberleader=
+
+villager.lonelumberman=Lumberman
+villager.lonelumbermantaiga=Lumberman
+villager.loneminer=
+villager.lonemonk=Monk
+villager.loneabbot=
+villager.alchemist=
+villager.alchemistassistant=
+villager.alchemistapprentice=
+villager.bandit=
+villager.armoredbandit=
+villager.felonbaron=
+villager.felonsoldier=
+
+
+
+shop.townhall=Central Store
+shop.forge=Tools
+shop.armoury=Armours & weapons
+shop.bakery=Bread
+shop.cattlefarm=Ovine products
+shop.pigfarm=Porcine products
+shop.sheepchickenfarm=Poultry
+shop.tavern=Alcohol
+shop.lumberman=Cider Apples
+shop.lonemine=Stone
+shop.alchemyworkshop=Alchemical Products
+shop.lonelumberman=Wood and apples
+shop.lonemill=Bread
+shop.loneinn=Food and Drinks
+shop.lonelumbermantaiga=Wood
+shop.loneabbey=products of the Abbey

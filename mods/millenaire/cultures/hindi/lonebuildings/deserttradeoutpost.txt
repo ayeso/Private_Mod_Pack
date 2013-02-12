@@ -1,0 +1,11 @@
+name:Saray
+weight:10
+radius:10
+biome:desert
+biome:deserthills
+
+//extraBiomes mod
+biome:mountain desert
+
+//starting buildings:
+centre:deserttradeoutpost

@@ -1,0 +1,11 @@
+name:Purana Qila
+weight:2
+radius:15
+biome:desert
+biome:deserthills
+
+//extraBiomes mod
+biome:mountain desert
+
+//starting buildings:
+centre:ruinedfort

@@ -1,0 +1,3 @@
+sells=steelAxe,steelPickaxe,steelShovel,steelHoe
+
+deliverto=iron

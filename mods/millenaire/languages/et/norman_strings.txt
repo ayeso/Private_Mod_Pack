@@ -1,0 +1,56 @@
+
+culture.norman=Normaalane
+
+//Norman:
+villager.abbot=
+villager.carpenter=
+villager.cattleFarmerMale=Veise farmer
+villager.cattleFarmerFemale=Veise farmer
+villager.boy=Poiss
+villager.girl=Tüdruk
+villager.teenagerMale=Nooruk
+villager.teenagerFemale=Nooruk
+villager.farmer=
+villager.merchant_viking=
+villager.merchant_weapon=
+villager.merchant_plant=
+villager.merchant_art=
+villager.merchant_wool=
+villager.merchant_food=Toidu kaupmees
+villager.guard=
+villager.guildmaster=
+villager.knight=Knight
+villager.lady=
+villager.lumberman=Puuraidur
+villager.merchant=
+villager.miner=
+villager.monk=Munk
+villager.priest=
+villager.seneschal=
+villager.smith=Smith
+villager.wife=Küla naine
+
+villager.lonelumberman=Puuraidur
+villager.lonelumbermantaiga=Puuraidur
+villager.loneminer=
+villager.lonemonk=Munk
+villager.loneabbot=
+villager.alchemist=
+villager.alchemistassistant=
+villager.alchemistapprentice=
+villager.bandit=
+villager.armoredbandit=
+villager.felonbaron=
+villager.felonsoldier=
+
+
+
+shop.townhall=Kesk-pood
+shop.forge=Tööriistad
+shop.armoury=Soomus ja relvad
+shop.bakery=Sai
+shop.cattlefarm=Lamba tooted
+shop.pigfarm=Sea tooted
+shop.sheepchickenfarm=Linnuliha
+shop.tavern=Alkohool
+shop.lumberman=Siidri õun

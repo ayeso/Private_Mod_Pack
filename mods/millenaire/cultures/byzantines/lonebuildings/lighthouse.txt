@@ -1,0 +1,7 @@
+name:Pharos
+weight:10
+radius:10
+biome:beach
+
+//starting buildings:
+centre:lighthouse

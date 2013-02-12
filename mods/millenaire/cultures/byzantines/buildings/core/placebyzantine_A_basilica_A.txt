@@ -1,0 +1,8 @@
+type:subbuilding;native:Basilike;around:4;startLevel:-1;orientation:3;width:22;length:28;priority:250;tag:market1
+startLevel:-1;tag:market2
+startLevel:-1;tag:market3
+startLevel:-1
+startLevel:-1;priority:10
+startLevel:-1
+
+

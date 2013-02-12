@@ -1,0 +1,21 @@
+native_name=Ta'as Tz'on
+gender=male
+familyNameList=low_caste_family_names
+firstNameList=men_names
+
+texture=/graphics/mob/mayan/mayan_Crafter0.png
+
+goal=gorest
+goal=gopray
+goal=makeobsidiantools
+goal=makeobsidianflakes
+goal=getTool
+
+toolNeeded=obsidian
+
+toolNeeded=stoneaxe
+toolNeeded=mayanaxe
+
+tag=helpInAttacks
+defaultweapon=woodaxe
+experiencegiven=5

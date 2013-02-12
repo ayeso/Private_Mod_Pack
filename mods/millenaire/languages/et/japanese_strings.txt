@@ -1,0 +1,38 @@
+culture.japanese=Jaapanlane
+
+villager.japanese_boy=Poiss
+villager.japanese_girl=Tüdruk
+villager.japanese_teenagermale=Nooruk
+villager.japanese_teenagerfemale=Nooruk
+villager.japanese_lumberman=Puuraidur
+villager.japanese_miner=Kaevandaja
+villager.japanese_loneminer=Kaevandaja
+villager.japanese_monk=Monk
+villager.japanese_peasant=Talunik
+villager.japanese_peasantwife=Nais talunik
+villager.japanese_samuraigeneral=Samurai
+villager.japanese_richwoman=Daam
+villager.japanese_samurai=Sõjamees
+villager.japanese_emperor=Emperaator
+villager.japanese_crafter=Käsitööline
+villager.japanese_armysmith=Seppa meister
+villager.japanese_sculptor=Artisan
+villager.japanese_kuge=Kuge
+villager.japanese_merchant=Kaupmees
+villager.japanese_chickenfarmer=Linnuliha talunik
+villager.japanese_smith=Sepp
+villager.japanese_fisherman=Kalastaja
+villager.japanese_farmer=Nisu talunik
+villager.japanese_farmerchief=Ülem talunik
+villager.japanese_farmwife=Taluniku naine
+villager.japanese_womanservant=Sulane
+villager.japanese_merchant_food=Todi kaupmees
+villager.japanese_merchant_blacksmith=Töövahendite kaupmees
+villager.japanese_bravewoman=Julge naine
+
+
+shop.japanesetownhall=Kesk-pood
+shop.forge=Töövahendid
+shop.armyforge=Soomus ja relvad
+shop.japanesecrafter=Paber
+shop.kitchen=Toit

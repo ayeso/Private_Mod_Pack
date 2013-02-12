@@ -1,0 +1,9 @@
+name:Daibutsu
+weight:5
+radius:10
+biome:foresthills
+biome:forest
+
+
+//starting buildings:
+centre:lonebuddha

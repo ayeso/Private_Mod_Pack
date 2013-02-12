@@ -1,0 +1,2 @@
+sells=wool_white,wool_gray,wool_pink
+buys=wine,bread

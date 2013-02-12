@@ -1,0 +1,5 @@
+max:1;priority:5;native:Psaras Spiti;around:4;startLevel:-5;orientation:3;width:19;length:16;male:fisherman_byzantine;female:wife_byzantine
+startLevel:-5;priority:10
+startLevel:-5
+startLevel:-5
+

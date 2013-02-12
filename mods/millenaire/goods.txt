@@ -1,0 +1,250 @@
+//Item key;item id;item meta;label (indicative only)
+//This file is auto-generated and indicative only. Don't edit it.
+
+akwardpotion;373;16;Potion
+alchemistamulet;mln24;0;
+alchimistexplosive;1519;3;
+arrow;262;0;Arrow
+beefcooked;364;0;Steak
+beefraw;363;0;Raw Beef
+bone;352;0;Bone
+book;340;0;Book
+bookandquill;386;0;Book and Quill
+bookshelves;47;0;Bookshelf
+bottle;374;0;Glass Bottle
+boudin;mln21;0;
+bow;261;0;Bow
+bowlempty;281;0;Bowl
+bowlsoup;282;0;Mushroom Stew
+bread;297;0;Bread
+brickmould;mln32;0;
+bricks;45;0;Bricks
+bucketempty;325;0;Bucket
+bucketlava;327;0;Lava Bucket
+bucketmilk;335;0;Milk
+bucketwater;326;0;Water Bucket
+byzantineboots;mln84;0;
+byzantinehelmet;mln82;0;
+byzantineiconlarge;mln80;0;
+byzantineiconmedium;mln79;0;
+byzantineiconsmall;mln78;0;
+byzantinelegs;mln81;0;
+byzantinemace;mln85;0;
+byzantineplate;mln83;0;
+byzantinestonetiles;1524;0;
+byzantinetiles;1522;0;
+byzantinetileslab;1523;0;
+cactus;81;0;Cactus
+cake;92;0;Cake
+calva;mln5;0;
+chickencurry;mln31;0;
+chickenmeat;365;0;Raw Chicken
+cider;mln4;0;
+ciderapple;mln3;0;
+clay;337;0;Clay
+clock;347;0;Clock
+coal;263;0;Coal
+cobblestone;4;0;Cobblestone
+compass;345;0;Compass
+cookedbrick;1519;0;
+cookie;357;0;Cookie
+denier;mln0;0;
+denierargent;mln2;0;
+denieror;mln1;0;
+diamond;264;0;Diamond
+diamondaxe;279;0;Diamond Axe
+diamondboots;313;0;Diamond Boots
+diamondchest;311;0;Diamond Chestplate
+diamondhelmet;310;0;Diamond Helmet
+diamondhoe;293;0;Diamond Hoe
+diamondlegs;312;0;Diamond Leggings
+diamondpickaxe;278;0;Diamond Pickaxe
+diamondshovel;277;0;Diamond Shovel
+diamondsword;276;0;Diamond Sword
+dirt;3;0;Dirt
+dirtwall;1518;1;
+dye_black;351;0;Ink Sac
+dye_blue;351;4;Lapis Lazuli
+dye_brown;351;3;Cocoa Beans
+dye_cyan;351;6;Cyan Dye
+dye_gray;351;8;Gray Dye
+dye_green;351;2;Cactus Green
+dye_lightblue;351;12;Light Blue Dye
+dye_lightgray;351;7;Light Gray Dye
+dye_magenta;351;13;Magenta Dye
+dye_orange;351;14;Orange Dye
+dye_pink;351;9;Pink Dye
+dye_purple;351;5;Purple Dye
+dye_red;351;1;Rose Red
+dye_white;351;15;Bone Meal
+dye_yellow;351;11;Dandelion Yellow
+egg;344;0;Egg
+enderpearl;368;0;Ender Pearl
+feather;288;0;Feather
+fishcooked;350;0;Cooked Fish
+fishraw;349;0;Raw Fish
+flint;318;0;Flint
+flintandsteel;259;0;Flint and Steel
+glass;20;0;Glass
+gold;266;0;Gold Ingot
+goldore;14;0;Gold Ore
+grapes;mln75;0;
+gunpowder;289;0;Gunpowder
+indianstatue;mln34;0;
+iron;265;0;Iron Ingot
+ironore;15;0;Iron Ore
+japaneseguardboots;mln70;0;
+japaneseguardhelmet;mln68;0;
+japaneseguardlegs;mln67;0;
+japaneseguardplate;mln69;0;
+japanesewarriorblueboots;mln62;0;
+japanesewarriorbluehelmet;mln60;0;
+japanesewarriorbluelegs;mln59;0;
+japanesewarriorblueplate;mln61;0;
+japanesewarriorredboots;mln66;0;
+japanesewarriorredhelmet;mln64;0;
+japanesewarriorredlegs;mln63;0;
+japanesewarriorredplate;mln65;0;
+leather;334;0;Leather
+leatherboots;301;0;Leather Boots
+leatherchest;299;0;Leather Tunic
+leatherhelmet;298;0;Leather Cap
+leatherlegs;300;0;Leather Pants
+maize;mln40;0;
+masa;mln42;0;
+mayanaxe;mln55;0;
+mayangold;1519;2;
+mayanhoe;mln57;0;
+mayanmace;mln53;0;
+mayanpickaxe;mln54;0;
+mayanshovel;mln56;0;
+mayanstatue;mln39;0;
+melonseeds;362;0;Melon Seeds
+melonslice;360;0;Melon
+mudbrick;1519;1;
+mushroombrown;39;0;Mushroom
+mushroomred;40;0;Mushroom
+netherwart;372;0;Nether Wart
+normanaxe;mln8;0;
+normanboots;mln16;0;
+normanbroadsword;mln12;0;
+normanchest;mln14;0;
+normanhelmet;mln13;0;
+normanhoe;mln10;0;
+normanlegs;mln15;0;
+normanpickaxe;mln7;0;
+normanshovel;mln9;0;
+obsidian;49;0;Obsidian
+obsidianflake;mln52;0;
+painting;321;0;Painting
+paper;339;0;Paper
+paperwall;1521;0;
+parchmentbuildings;mln18;0;
+parchmentcomplete;mln20;0;
+parchmentindianbuildings;mln36;0;
+parchmentindiancomplete;mln38;0;
+parchmentindianitems;mln37;0;
+parchmentindianvillagers;mln35;0;
+parchmentitems;mln19;0;
+parchmentjapanesebuildings;mln72;0;
+parchmentjapanesecomplete;mln74;0;
+parchmentjapaneseitems;mln73;0;
+parchmentjapanesevillagers;mln71;0;
+parchmentmayanbuildings;mln44;0;
+parchmentmayancomplete;mln46;0;
+parchmentmayanitems;mln45;0;
+parchmentmayanvillagers;mln43;0;
+parchmentsadhu;mln47;0;
+parchmentvillagers;mln17;0;
+planks_birch;5;2;Birch Wood Planks
+planks_jungle;5;3;Jungle Wood Planks
+planks_oak;5;0;Oak Wood Planks
+planks_pine;5;1;Spruce Wood Planks
+porkchops;319;0;Raw Porkchop
+pumpkin;86;0;Pumpkin
+pumpkinseeds;361;0;Pumpkin Seeds
+rasgulla;mln33;0;
+redflower;38;0;Rose
+redstone;331;0;Redstone
+rice;mln28;0;
+rottenflesh;367;0;Rotten Flesh
+saddle;73;0;Redstone Ore
+sand;12;0;Sand
+sandstone;24;0;Sandstone
+sapling;6;0;Oak Sapling
+sapling_birch;6;2;Birch Sapling
+sapling_jungle;6;3;Jungle Sapling
+sapling_pine;6;1;Spruce Sapling
+seeds;295;0;Seeds
+shears;359;0;Shears
+silk;mln77;0;
+silkwormblockempty;1517;3;
+silkwormblockfull;1517;4;
+skollhatiamulet;mln26;0;
+slimeball;341;0;Slimeball
+snow;78;0;Snow
+spidereye;375;0;Spider Eye
+steelaxe;258;0;Iron Axe
+steelboots;309;0;Iron Boots
+steelchest;307;0;Iron Chestplate
+steelhelmet;306;0;Iron Helmet
+steelhoe;292;0;Iron Hoe
+steellegs;308;0;Iron Leggings
+steelpickaxe;257;0;Iron Pickaxe
+steelshovel;256;0;Iron Shovel
+steelsword;267;0;Iron Sword
+stone;1;0;Stone
+stoneaxe;275;0;Stone Axe
+stonebrick;98;0;Stone Bricks
+stonehoe;291;0;Stone Hoe
+stonepickaxe;274;0;Stone Pickaxe
+stoneshovel;273;0;Stone Shovel
+stonesword;272;0;Stone Sword
+string;287;0;String
+sugarcane;338;0;Sugar Canes
+tachisword;mln50;0;
+tapestry;mln22;0;
+thatched;1517;2;
+timberframe_cross;1517;1;
+timberframe_plain;1517;0;
+tnt;46;0;TNT
+tripes;mln6;0;
+turmeric;mln29;0;
+udon;mln49;0;
+unknownpowder;mln48;0;
+vegcurry;mln30;0;
+villagewand;mln11;0;
+vines;106;0;Vines
+vishnuamulet;mln23;0;
+wah;mln41;0;
+wheat;296;0;Wheat
+wine;mln76;0;
+wood;17;0;
+wood_any;17;-1;
+wood_birch;17;2;
+wood_jungle;17;3;
+wood_oak;17;0;
+wood_pine;17;1;
+woodaxe;271;0;Wooden Axe
+woodhoe;290;0;Wooden Hoe
+woodpickaxe;270;0;Wooden Pickaxe
+woodshovel;269;0;Wooden Shovel
+woodsword;268;0;Wooden Sword
+wool_black;35;15;Black Wool
+wool_blue;35;11;Blue Wool
+wool_brown;35;12;Brown Wool
+wool_cyan;35;9;Cyan Wool
+wool_gray;35;7;Gray Wool
+wool_green;35;13;Green Wool
+wool_lightblue;35;3;Light Blue Wool
+wool_lightgray;35;8;Light Gray Wool
+wool_magenta;35;2;Magenta Wool
+wool_orange;35;1;Orange Wool
+wool_pink;35;6;Pink Wool
+wool_purple;35;10;Purple Wool
+wool_red;35;14;Red Wool
+wool_white;35;0;Wool
+wool_yellow;35;4;Yellow Wool
+yddrasilamulet;mln25;0;
+yellowflower;37;0;Flower
+yumibow;mln58;0;

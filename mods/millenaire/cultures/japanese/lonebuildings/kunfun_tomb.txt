@@ -1,0 +1,9 @@
+name:Kofun
+weight:5
+radius:20
+biome:foresthills
+biome:forest
+
+
+//starting buildings:
+centre:kufun_tomb

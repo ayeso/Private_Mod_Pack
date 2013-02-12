@@ -1,0 +1,13 @@
+version:3.4
+<darkblue>Os Japoneses
+
+Eles vivem em aldeias religiosas, militares ou imperiais e distinguem-se pela sua arquitectura elegante. Falam em japonês, mas o seu idioma será traduzido à medida que o jogador o for "aprendendo" comunicando e interagindo com os aldeões.
+
+<darkblue>Objectos e Blocos Nativos
+
+- Os Japoneses cultivam o arroz. O jogador poderá solicitar ao chefe da aldeia o conhecimento necessário para cultivar este cereal;
+- Tal como os Normandos, eles produzem armações de madeira para as suas construções;
+
+- Utilizam bastante o colmo como material de construção, produzido através do trigo;
+
+- Os seus ferreiros fabricam espadas Tachi formidáveis e arcos Yumi de longo alcance, bem como três tipos diferentes de armaduras muito eficazes.

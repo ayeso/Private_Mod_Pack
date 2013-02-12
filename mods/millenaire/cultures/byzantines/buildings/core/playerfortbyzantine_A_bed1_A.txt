@@ -1,0 +1,5 @@
+type:subbuilding;priority:1000;native:krebati;around:4;startLevel:-1;orientation:3;male:playersoldier_byzantine;length:41;width:43
+
+
+
+

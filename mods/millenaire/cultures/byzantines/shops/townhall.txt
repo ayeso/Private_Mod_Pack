@@ -1,0 +1,5 @@
+sells=wood,wood_birch,cobblestone,stone,bricks,byzantinetiles,glass,sandstone,wool_white,wool_gray,bookshelves,painting,byzantineiconsmall,byzantineiconmedium,byzantineiconlarge,bread,fishcooked,villageWand
+
+buys=wood,wood_birch,clay,cobblestone,stone,sandstone,glass,iron,leather,bookshelves,bread,wool_white,fishraw
+
+deliverto=wood,wood_pine,wood_birch,cobblestone,stone,sandstone,clay,glass,bricks,byzantinetiles,glass,sandstone,wool_white,wool_gray,wool_black,wool_brown,painting,byzantineiconsmall,byzantineiconmedium,byzantineiconlarge,fishcooked,bookshelves

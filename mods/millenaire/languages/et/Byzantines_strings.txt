@@ -1,0 +1,34 @@
+﻿culture.byzantines=Bütsantsia
+
+//Norman:
+villager.teenagerMale=Nooruk
+villager.teenagerFemale=Nooruk
+villager.boy_byzantine=Poiss
+villager.girl_byzantine=Tüdruk
+villager.farmiller_byzantine=Mölder
+villager.farmiller_wife_byzantine=Mölderi naine
+villager.wife_byzantine=Naine
+villager.miner_byzantine=Kaevandaja
+villager.artisan_byzantine=Käsitööline
+villager.patriarch_byzantine=Patriarh
+villager.lumberman_byzantine=Puuraidur
+villager.shepherd_byzantine=Karjus
+villager.shepherd_female_byzantine=Karjus
+villager.fisherman_byzantine=Kalastaja
+villager.baron_byzantine=Parun
+villager.richwife_byzantine=Rikkas naine
+villager.merchant_norman=Normandia kaupleja
+villager.merchant_hindi=India kaupleja
+villager.merchant_mayan=Mayande kaupleja
+villager.merchant_japanese=Jaapanlaste kaupleja
+villager.centurio_byzantine=Centurio
+villager.soldier_byzantine=Sõdur
+villager.playersoldier_byzantine=Sõdur
+villager.smith_byzantine=Sepp
+villager.merchant_byzantine=Kaupmees
+villager.pastor_byzantine=Pastor
+
+villager.keeperOak_byzantine=Valvur
+villager.keeperBirch_byzantine=Valvur
+villager.keeperTropical_byzantine=Valvur
+villager.keeperPine_byzantine=Valvur

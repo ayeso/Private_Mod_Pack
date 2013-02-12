@@ -1,0 +1,731 @@
+
+startup.loadproblem=載入<0>時發生了錯誤。
+startup.checkload=請檢查/minecraft/millenaire/裡的'Culture'資料夾
+startup.millenaireloaded=<0>已載入完畢。您可在周圍探索或按'<1>'鍵來尋找村莊
+startup.radiuswarning=WARNING: 警告：把村莊半徑設置得這麼高可能會造成遊戲停滯。不建議使用超過70的數值。
+
+command.nogenerate=<0>在這個世界上將不會再生成村莊。
+command.willgenerate=<0>將在這個世界上的新的地區生成村莊。
+command.astarpathing=正在使用A*製定路徑
+command.binarypathing=正在使用binary製定路徑
+command.minecraftpathing=正在使用Minecraft製定路徑
+command.inactive=不活躍
+command.active=活躍
+command.frozen=已凍結
+command.villagelist=<4>: <0>(<1>)目前在您<3>方<2>米的位置。
+command.villagelistkeylonebuilding=<0>目前在您<2>方<2>米的位置。
+command.noknowvillage=在兩公里內沒有已知的村莊。請繼續搜索！
+command.newvillagefound=發現新的村莊：屬於<2>民族的<1>類型村莊<0>目前在您<4>方<3>米的位置。
+command.newlonebuildingfound=發現新的建築物：<0>目前在您<2>方<2>米的位置。
+command.pathrebuild=<0>的地圖和路徑製定已被重新載入。
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=上鎖的箱子
+ui.largelockedchest=上鎖的大型箱子
+ui.unlockedchest=已解鎖的箱子
+ui.largeunlockedchest=已解鎖的大型箱子
+ui.allchestsunlocked=所有箱子已被解鎖
+ui.outofstock=暫無存貨！
+ui.reputationneeded=需要聲望：<0>
+ui.missingdeniers=您還缺金錢<0>。
+ui.missingequipment=缺少的裝備
+ui.noneininventory=在您的物品欄中沒有此物品。
+ui.selling=售賣
+ui.buying=購買
+ui.buybuilding=購買 <0> (<1>)
+ui.sellercoming=<0>: 我馬上就到，$name！
+ui.tradecomplete=<0>: 我希望您喜歡與我們交易！祝您有美好的一天。
+ui.sellerboycott=<0>: 我們絕不會再與你交易，傷人犯！
+ui.sellernotcurrently possible=<0>: 你怎麼在我們村莊大混亂時還想做交易？
+ui.wesell=我們售賣
+ui.webuy=我們購買
+ui.isell=我售賣
+ui.inventory=物品欄
+ui.villagechief=<0>村的領袖
+ui.yourstatus=您目前的狀態
+ui.possiblehousing=可購買的房屋
+ui.alreadybuilt=已建
+ui.alreadyrequested=已申請
+ui.notavailableyet=尚未可用
+ui.available=可用
+ui.youaremissing=您目前缺少：<0>
+ui.scrollsnoreputation=您的聲望尚未足以購買村莊捲軸。
+ui.scrollsnotenoughmoney=您目前缺少金錢<0>，不能購買村莊捲軸。
+ui.scrollsok=您可以購買村莊捲軸。
+ui.buyscroll=購買村莊捲軸。
+ui.cost=價錢
+ui.clicktorequest=按此申請
+ui.scrollbought=<0>: 你現在被賦予我們村莊的羊皮捲軸！
+ui.housebought=<0>: 您的<0>的建造很快便會開始！
+ui.inhabitantof=<0>的居民
+ui.inconstruction=建造中
+ui.nospace=沒有足夠的空間
+ui.reservedforvillager1=已預訂
+ui.reservedforvillager2=給村民
+ui.currentlyempty1=目前
+ui.currentlyempty2=空著
+ui.visitorslist1=訪客
+ui.visitorslist2=名單
+ui.goodstraded=已交易商品
+ui.imports=進口
+ui.exports=出口
+ui.import_total=總進口: <0>
+ui.export_total=總出口: <0>
+ui.merchants=商人:
+ui.goalscompleted1=所有建築
+ui.goalscompleted2=目標完成
+ui.project=項目
+ui.noconstruction1=沒有建設
+ui.noconstruction2=進行中
+ui.upgrading=升級中 (<0>)
+ui.construction=建設進度 <0>%
+ui.population=人口:
+ui.populationnumber=總人口: <0>人
+ui.adults=成人: <0> (<1>/<2>)
+ui.teens=青年: <0> (<1>/<2>)
+ui.children=兒童: <0> (<1>/<2>)
+ui.villagemap=村莊地圖
+ui.nbbuildings=<0>建築物
+ui.wandwrongblock=這法杖只適用於黑曜石(生成一個隨機村莊)或以下方塊：
+ui.wandblocklist=<0>會生成<1>
+ui.wandblocklistcontrolled=<0>會生成<1>(需要在這種文化中有領導地位)
+ui.brickinstructions=製造磚塊需要一個泥土方塊和沙塊。
+ui.buildingscentre=中心
+ui.buildingsstarting=初始建築物
+ui.buildingsplayer=玩家建築物
+ui.buildingskey=重要建築物
+ui.buildingssecondary=次要建築物
+ui.buildingsextra=額外建築物
+ui.worldnotgenerated=周圍地區並未完全生成。四處走走後再回來。
+ui.tooclosetospawn=太過接近重生點！不允許生成村莊。
+ui.generatenotenoughspace=城鎮大廳空間不足.
+ui.generatenotenoughspacevillage=村莊空間不足.
+ui.lackingresources=資源不足
+ui.lockedchestwarning=警告：摧毀上鎖的箱子將阻止村莊正常運作。請在您想摧毀該村莊時才這樣做。
+ui.xoutofy=<0> of <1>
+ui.extraresneeded1=<0>種其他資源
+ui.extraresneeded2=是需要的
+ui.woodforplanks=任何的木頭
+ui.woodoak=橡木
+ui.woodpine=松木
+ui.woodbirch=樺木
+ui.woodjungle=叢林木
+ui.anyenchanted=已附魔物品
+ui.enchantedsword=已附魔的劍
+ui.selectabuildingproject=選擇一個建設項目
+ui.projectadded=該項目已被增加到建設表中
+ui.problemat=問題在 <0>: <1>
+ui.constructionforbidden=禁止建設
+ui.locationclash=與另一建築物衝突
+ui.outsideradius=超出村莊半徑
+ui.wrongelevation=超出允許的海拔
+ui.danger=危險方塊
+ui.notreachable=無法到達區域
+ui.unknownerror=未知問題
+ui.controlbuildingprojects=管理建設項目
+ui.forbidupgrades=停止升級
+ui.allowupgrades=允許升級
+ui.cancelbuilding=移除該建築物
+ui.level=級別
+ui.notyetbuilt=尚未建成
+ui.nbinhabitants=居民的數量: <0>
+ui.wandnocontrol=您不可生成這個類型的村莊因為您尚未是<0>民族的領袖。
+ui.control_ok=您對這個村莊的服務以足夠使<0>的人民承認您是他們的領袖！我可以讓您被正式承認和允許你建設自己的村莊。
+ui.control_noreputation=您的名望尚未足夠使您被承認為<0>人民的領袖。<ret>改善您與我們的聲望，或完成特別任務來達到這個狀態。
+ui.control_alreadydone=您已被承認為<0>。
+ui.control_get=要求作為一個領袖的認可。
+ui.control_gotten=<0>: 我正式承認您作為我們人民的領袖！您現在可以開始建設自己的村莊。
+ui.selectavillage=選擇你要生成的村莊類型
+ui.leadershipstatus=領袖地位狀態
+ui.leaderin=您已是<0>民族的領袖。您可以建立該民族的自己控制的村莊。
+ui.notleaderin=您尚未是是<0>民族的領袖。
+ui.leaderinstruction=要成為一個民族的領袖，您需要在一個村莊中達到"天生的領袖"等級並向村莊的領袖要求領袖地位，或完成該民族的"創天地"任務(如果有的話)。
+ui.wandinstruction=把法杖用在黑曜石上使之隨機生成一個村莊或一個金塊上並選擇你想要的村莊類型。
+ui.controlled=受控制的
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist=與其他村莊的關係
+ui.relationpraise=讚美
+ui.relationslander=誹謗
+ui.relationpoints=可用的外交點數: <0>
+ui.relationhelp=幫助村莊之間的關係決定了這些村莊是否會互相合作。<ret><ret>攜帶資源的商人會在關係良好的相同民族村莊之間<ret>或關係極好的不同民族村莊之間出現。<ret><ret>關係非常好而互相擁有市集的不同民族村莊之間<ret>會有另一民族的商人在那裡擺地攤。<ret><ret>關係極好的相同民族村莊之間，如果一方有職位空缺，<ret>會接受對方的青年任職。<ret><ret>子村莊和母村莊之間的關係開始於極好，<ret>相同民族的開始於良好，否則就是中立，<ret><ret>每日玩家有五點外交點數，可用來影響村莊之間的關係。<ret><ret>讚美或誹謗的成效取決於玩家在該村莊內的聲望。
+ui.relationfriendly=村莊<0>和<1>之間最近的發展改善了它們之間的關係。它們現在的關係是<2>。
+ui.relationunfriendly=村莊<0>和<1>之間最近的摩擦惡化了它們之間的關係。它們現在的關係是<2>。
+ui.cropplantingknowledge=您尚未知道如何種植<0>。您需要詢問一位村莊領袖。
+ui.cropsknown=此民族已知的作物
+ui.cropknown=您已學習如何種植<0>。
+ui.cropinsufficientreputation=您沒有足夠的聲望來使該村莊教導您如何種植<0>。
+ui.cropnotenoughmoney=您需要<1>來支付學習種植<0>的費用。
+ui.cropoktolearn=這個村莊可以教導您如何種植<0>。
+ui.croplearn=學習(<0>)
+ui.croplearned=<0>: 您現在知道了<0>的種植方法！
+ui.raider=侵略者
+
+ui.communicationexplanations=To communicate with the villagers, do a right-click. If an action is possible with the villager in question (trading, discussing with the head of the village, hiring him temporarily, starting a quest) a window will open.
+ui.helpbutton=Millénaire Help
+
+help.tab_1=村莊的法則
+help.tab_2=貿易
+help.tab_3=名聲 & 村莊領袖
+help.tab_4=村莊發展
+help.tab_5=戰鬥 & 襲擊
+help.tab_6=創建或破壞村莊
+help.tab_7=任務
+help.tab_8=諾曼
+help.tab_9=印度
+help.tab_10=瑪雅
+help.tab_11=日本
+help.tab_12=FAQ
+
+
+quest.obtained=已取得
+quest.lackingcondition=您還需要：
+quest.lackinghiddengoods=您尚未有這個任務所需的物品。
+quest.close=關閉
+quest.accept=接受任務
+quest.refuse=拒絕任務
+quest.continue=繼續進行任務
+quest.conditionsnotmet=您尚未滿足所有的條件。
+quest.lessthananhourleft=只剩不到一個小時了！
+quest.timeremaining=剩餘時間
+quest.hours=小時
+quest.noquestsvisible=沒有進行中的任務
+quest.questlist=進行中的任務
+quest.reputationlost=損失名聲
+
+quest.creationqueststatus="創天地"任務狀態
+quest.creationqueststatusshort="創天地"任務：
+
+quest.cqchaptersadhu=尋找聖者
+quest.cqsadhustartexplanation=擁有"村莊的朋友"聲望等級的印度村莊<ret>找到一個能夠引導你的村民<ret>來接受你的第一個任務。
+
+quest.cqchapteralchemist=尋找煉金術士
+quest.cqalchemiststartexplanation=擁有"村莊的朋友"聲望等級的諾曼村莊<ret>找到一個能夠引導你的村民。
+
+quest.cqallcompleted=恭喜您，您已經完成了目前所有的"創天地"任務！
+quest.cqcheckforupdates=查看www.millenaire.org來獲得未來更多更新的任務。
+quest.cqchapternotstarted=您尚未開始章節"<0>"。
+quest.cqchapterinprogress=您已完成"創天地"章節"<0>"中<2>任務其中的<1>。
+quest.cqchaptercompleted=您已完成章節"<0>".
+quest.cqchapternotstartedshort=章節"<0>"：未開始。
+quest.cqchapterinprogressshort=章節"<0>"：<1>/<2>。
+quest.cqchaptercompletedshort=章節"<0>"：已完成。
+quest.cqcheckquestlistandhelp=按下'<0>'以獲得更多資訊。
+
+
+
+//Item names
+
+//The following items should not be translated
+//They are either proper names (the deniers)
+//or specific local specialities that aren't translated
+//in other languages
+//I'm putting them for non-Latin alphabet languages,
+//so they can be written in other alphabets
+item.denier=銅幣
+item.denierOr=銀幣
+item.denierArgent=金幣
+item.calva=Calva
+item.tripes=豬肚
+item.boudin=血腸
+
+item.dirtwall=泥牆
+
+item.building=上鎖的箱子
+item.normanPickaxe=諾曼鎬
+item.normanAxe=諾曼斧頭
+item.normanShovel=諾曼鍬
+item.normanHoe=諾曼鋤頭
+item.normanBroadsword=諾曼寬劍
+item.normanHelmet=諾曼頭盔
+item.normanPlate=諾曼胸甲
+item.normanLegs=諾曼護腿
+item.normanBoots=諾曼靴子
+item.rice=稻米
+item.turmeric=薑黃
+item.vegcurry=素咖哩
+item.chickenmeat=生雞肉
+item.chickencurry=咖哩雞
+item.brickmould=磚頭模具
+item.rasgulla=Rasgulla
+item.plaintimber=橫木框架
+item.crosstimber=斜木框架
+item.wetbrick=潮濕的磚頭
+item.cookedbrick=乾磚頭
+item.mudbrick=土磚頭
+item.indianstatue=印式雕像
+item.ciderapple=蘋果
+item.cider=蘋果酒
+item.villagewand=生成法杖
+item.negationwand=消滅法杖
+item.normanvillagers=諾曼村民
+item.normanitems=諾曼物件
+item.normanbuildings=諾曼建築
+item.normanfull=完整諾曼捲軸
+item.tapestry=諾曼掛毯
+item.vishnu_amulet=毗濕奴護身符
+item.alchemist_amulet=術士護身符
+item.yddrasil_amulet=世界樹護身符
+item.skoll_hati_amulet=斯克爾和哈提護身符
+item.villagescroll=村莊捲軸
+item.indianvillagers=印度村民
+item.indianitems=印度物件
+item.indianbuildings=印度建築
+item.indianfull=完整印度捲軸
+item.unknownpowder=不明粉末
+item.alchimistexplosive=煉金術士的炸藥
+
+item.wah=Wah
+item.masa=Masa
+item.maize=玉米
+item.mayangold=金色磚塊
+item.mayanstatue=瑪雅雕刻
+item.mayanvillagers=瑪雅村民
+item.mayanitems=瑪雅物件
+item.mayanbuildings=瑪雅建築
+item.mayanfull=完整瑪雅捲軸
+item.mayanmace=黑曜石錘
+item.mayanPickaxe=黑曜石鎬
+item.mayanAxe=黑曜石斧頭
+item.mayanShovel=黑曜石鏟
+item.mayanHoe=黑曜石鋤
+item.obsidianflake=黑曜石片
+
+item.paperwall=紙牆
+item.udon=烏冬
+item.thatched=茅
+
+item.parchmentsadhu=聖者的書
+
+item.tachisword=太刀
+item.yumibow=和弓
+
+item.japaneseWarriorBlueLegs=藍大鎧護腿
+item.japaneseWarriorBlueHelmet=藍大鎧頭盔
+item.japaneseWarriorBluePlate=藍大鎧胸甲
+item.japaneseWarriorBlueBoots=藍大鎧靴子
+
+item.japaneseWarriorRedLegs=紅大鎧護腿
+item.japaneseWarriorRedHelmet=紅大鎧頭盔
+item.japaneseWarriorRedPlate=紅大鎧胸甲
+item.japaneseWarriorRedBoots=紅大鎧靴子
+
+item.japaneseGuardLegs=Keiko護腿
+item.japaneseGuardHelmet=Keiko頭盔
+item.japaneseGuardPlate=Keiko胸甲
+item.japaneseGuardBoots=Keiko靴子
+
+item.japanesevillagers=Japanese Villagers
+item.japaneseitems=Japanese Objects
+item.japanesebuildings=Japanese Buildings
+item.japanesefull=Complete Japanese Scroll
+
+item.emptysilkwormblock=Empty Sericulture Block
+item.fullsilkwormblock=Sericulture Block
+item.byzantinebrick=Byzantine Tiles
+item.byzantineslab=Byzantine Tile Slab
+item.byzantinemixedbrick=Byzantine Stone Tile
+item.grapes=Grapes
+item.wine=Malvasia Wine
+item.silk=Silk
+item.byzantineicon=Byzantine Icon
+item.vine=Vine
+
+goal.plantvines=Planting vines
+goal.harvestgrapes=Harvesting grapes
+goal.gathersilk=Gathering silk
+goal.makeicon=Painting icon
+goal.makewine=Producing wine
+goal.makebookshelves=Making bookshelves
+goal.makebyzantinetiles=Making tiles
+goal.makebrick=Making bricks
+goal.training=Training
+goal.paintpainting=Painting a frame
+goal.makebook=Writing a book
+
+
+error.unknownitem=未知物品
+
+
+
+//Errors
+ui.updateEntity=在TileEntityBuilding.updateEntity()中有錯誤。請檢查millenaire.log。
+
+//Panels & parchments
+panels.notextfound=目前沒有發現這本書的文字
+panels.invalidid=無效的村莊ID。
+panels.toofar=距離村莊太遠，無法加載記錄。
+panels.recordsnotloaded=村莊記錄無法被加載。
+panels.villagescroll=村莊捲軸
+panels.mother=母親
+panels.father=父親
+panels.spouse=配偶
+panels.dead=暫時死亡
+panels.awayraiding=離開侵略中
+panels.awayhired=被玩家雇用
+panels.invaderincoming=來襲
+panels.missing=失蹤了！
+panels.multiple=存在了<0>次！
+panels.currentoccupation=目前職業
+panels.visitors=訪客
+panels.constructions=建設
+panels.upgrade=升級
+panels.buildingprojects=建設項目
+panels.notyetbuilt=尚未建成
+panels.nbupgradesleft=剩餘<0>升級。
+panels.finished=已完成
+panels.houseunoccupied=這房子目前是空置的。成長至青年的兒童會搬進這裏並成為成人。
+panels.man=男人
+panels.woman=女人
+panels.children=兒童
+panels.nofemaleresident=這座房子永遠也不會有一位女性居民。
+panels.bachelor=住在這裡的男人仍是單身的。成長到青年的女孩會搬進這裏並成為成人。
+panels.nomaleresident=這座房子永遠也不會有一位男性居民。
+panels.spinster=住在這裡的女人仍未結婚。成長到青年的男孩會搬進這裏並成為成人。
+panels.resources=資源
+panels.goodstraded=在這個村莊裡的商品交易
+panels.goodsimported=從其他村莊進口
+panels.goodsexported=出口到其他村莊
+panels.innvisitors=到這座<0>的訪客
+panels.mappurple=紫色：建設進行中。
+panels.mapblue=藍色：其他建築物。
+panels.mapgreen=綠色：合適的建設區域。
+panels.maplightgreen=淺綠色：合適的建設區域，<ret>淺綠色：建築物的中心不可建在這裡。
+panels.mapred=紅色：危險區域(岩漿，仙人掌等等)。
+panels.mapyellow=黃色：禁止建設(冰塊，人工方塊)。
+panels.maporange=橙色：禁止建設(離建築物太近)，<ret>橙色：無法到達的區域(如因有河流或峽谷等)
+panels.maplightblue=淺藍色：被水覆蓋。
+panels.mapbrown=棕色：其他區域(在海拔範圍之外等等)。
+panels.unreachablebuilding=無法到達！
+panels.merchantlist=商人名單
+panels.capacity=容量
+panels.nbnightsin=從<0>晚前就住在村莊裏。
+panels.storedexports=<0>儲存了以下物品作出口之用
+panels.broughtimport=<0>為村莊帶來以下物品
+panels.startedtrading=<0>(<1>)接受了其一生的交易生涯。
+panels.merchantmovedout=<0>(<1>)在村莊住了<3>日後搬到了<2>裏。
+panels.merchantarrived=<0>(<1>)從<2>到達了這裏。
+panels.childarrived=<0>從<1>來到這裏找工作。
+panels.resourcesneeded=項目所需的資源
+panels.resourcesavailable=存庫中的資源
+panels.villageculture=<0>民族的村莊
+panels.military=軍事
+panels.planningraid=計劃侵略中
+panels.raidinprogress=進行侵略中
+panels.underattack=被侵略中！
+panels.offense=具攻擊力的村民：<0>
+panels.defense=具防禦力的村民：<0>
+panels.offenselong=攻擊力：<0>
+panels.defenselong=防禦力：<0>
+panels.raidinprogresslong=侵略<0>中。從<1>小時前便已開始侵略。
+panels.planningraidlong=計劃侵略<0>。從<1>小時前便已開始規劃。
+panels.underattacklong=被<0>敵人侵略！ 攻擊力；<1> 來自：<2>
+panels.villagefighters=村莊中的鬥士
+panels.attackers=攻擊者
+panels.defender=防禦者
+panels.raider=侵略者
+panels.health=生命值
+panels.weapons=武器
+panels.armour=裝備
+panels.militarystrength=軍事實力
+panels.unknownattacker=未知地點
+panels.raidsperformed=已進行的侵略
+panels.raidssuffered=已接受的侵略
+panels.nameand=<0> and
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=休息中
+goal.godrink=離開家去喝一杯
+goal.gopray=離開家去祈禱
+goal.GatherGoods=收集物品中
+goal.BringBackResourcesHome=把資源帶回家
+goal.GetTool=拿取工具
+goal.huntMonster=與生物打鬥
+goal.getGoodsHousehold=拿取家人必需品
+goal.DeliverGoodsHousehold=幫家人送遞物品
+goal.GetHouseTHResources=從家裡拿取資源
+goal.DeliverResourcesShop=送遞資源中
+goal.raidvillage=侵略村莊
+goal.defendvillage=捍衛村莊
+goal.hide=避難中
+
+goal.CollectCrop=收集作物
+goal.PlantSeeds=播種中
+goal.ChopTrees=砍樹中
+goal.PlantSaplings=種植樹苗
+goal.GetResourcesForBuild=取得建設的資源
+goal.MakeBread=製作麵包
+goal.BeSeller=出售物品予玩家
+goal.MakeCider=製造Cider
+goal.MakeCalva=製造Calva
+goal.Construction=建設中
+goal.GoPlay=玩耍中
+goal.BecomeAdult=搬家中
+goal.MakeNormanTools=製造工具
+goal.MakeNormanWeapons=製造武器
+goal.Patrol=巡邏中
+goal.Butcher=屠宰中
+goal.MakeBoudin=製造Boudin
+goal.MakeTripes=製造Tripes
+goal.Mining=開採中
+goal.Cooking=冶煉資源
+goal.MakeBooks=製造羊皮紙
+goal.MakeTapestry=製作壁毯
+goal.VisitInn=前往旅店
+goal.VisitBuilding=前往商店
+goal.MakeAmulet=製作護身符
+goal.KeepStall=擺攤中
+goal.MakeTimberFrame=製作木框架
+
+goal.DryBrick=放置需乾燥的磚塊
+goal.GatherBrick=收集乾燥的磚塊
+goal.CookBrick=加熱磚塊
+goal.PlantRice=種植稻米
+goal.HarvestRice=收割稻米
+goal.PlantTurmeric=種植薑黃
+goal.HarvestTurmeric=收割薑黃
+goal.SlaughterChicken=屠宰雞隻
+goal.PlantSugarCane=種植甘蔗
+goal.HarvestSugarCane=收割甘蔗
+goal.MakeRasgulla=製作Rasgulla
+goal.MakeIndianTools=製造工具
+goal.MakeIndianWeapons=製造武器
+goal.scult=雕刻雕像
+goal.performpujas=執行法事
+goal.bepujaperformer=法事執行者有空缺
+
+goal.PlantMaize=種植玉米
+goal.HarvestMaize=收割玉米
+goal.makeGoldBlock=製作黃金飾品
+goal.sculptMayan=雕刻雕像
+goal.makeobsidiantools=製作黑曜石工具
+goal.makeobsidianflakes=把黑曜石打成片狀
+
+goal.fish=釣魚中
+goal.makethatch=製作茅草
+goal.makepaper=製作紙張
+goal.makepaperwall=製作紙牆
+goal.cookfish=烹調魚類
+goal.makeudon=製作烏冬
+goal.makejapaneseweapons=製造日式武器
+
+goal.brewpotions=釀製藥水
+goal.harvestwarts=收穫濕疣
+goal.makeglassbottles=製作玻璃瓶
+goal.plantwarts=種植濕疣
+
+//other
+other.west=西
+other.east=東
+other.north=北
+other.north-east=北-東
+other.north-west=北-西
+other.south=南
+other.south-east=南-東
+other.south-west=南-西
+
+other.tothewest=向西
+other.totheeast=向東
+other.tothenorth=向北
+other.tothenorth-east=向北-東
+other.tothenorth-west=向北-西
+other.tothesouth=向南
+other.tothesouth-east=向南-東
+other.tothesouth-west=向南-西
+
+other.west_short=西
+other.east_short=東
+other.north_short=北
+other.south_short=南
+other.shortdistancedirection=<0>m <1>
+
+other.metre=米
+other.kilometre=公里
+other.andhalf=及一半
+
+other.directionshort=<1> <0>
+other.exploredbuilding=你已經探索了一座建築物：<0>。
+
+other.malevillager=Millenaire村民
+other.femalevillager=Millenaire村民
+
+other.buildinghealing=<0> 正在治療你.
+
+hire.health=生命
+hire.strength=力量
+hire.cost=費用(每日)
+hire.aggressive=進取型
+hire.passive=被動型
+hire.timeleft=他會跟隨您<0>小時
+hire.hiredvillager=該村民已被聘用。他會繼續為您服務<0>小時或直到他死亡並在他的村莊裏重生。按'<1>'使他變為進取型或按左Shift鍵+'<1>'讓他變為被動型。
+hire.hireablevillager=您可以聘請這位村民。他會跟隨?您，直到聘用期滿或他因事死亡。他會攻擊任何攻擊你的生物，如果您把他變為進取型，他將預先攻擊附近的敵對生物和敵對村民。
+hire.hireablevillagernoreputation=您需要先在這個村子裏獲得"最受歡迎的商人"或以上的聲望等級才能僱用這個村民。
+hire.extend=延長
+hire.release=釋放
+hire.close=關閉
+hire.hire=聘請
+hire.hireover=<0>的聘用期已滿，他會返回他的村莊。
+hire.hiredied=<0>已因事故死亡，他將在他的村莊裏重生，而他聘用已被取消。
+hire.hiredbyotherplayer=<0> 已經被 <1> 雇用.
+hire.hiredby=被<0>雇用
+
+actions.forest_success=您已經成功地探索了森林。
+actions.forest_continue=您已經成功地探索了森林的<0>%。
+
+actions.desert_success=您已經成功地探索了沙漠。
+actions.desert_continue=您已經成功地探索了沙漠的<0>%。
+
+actions.mountain_success=您已經成功地探索了山脈。
+actions.mountain_continue=您已經成功地探索了山脈的<0>%。
+
+actions.underwaterglass_success=您已經成功地建造了深海觀察窗口。
+actions.underwaterglass_notdeepenough=在這個地點的海洋並不夠深。
+
+actions.underwaterdive_success=您已經成功地潛入深海。
+
+actions.bottomoftheworld_success=看來您似乎已經不能再往下挖了，因此這一定是世界的最底部！
+
+actions.topoftheworld_success=看來您似乎已經不能再往上走了，因此這一定是天空的最頂端！
+
+actions.borehole_nblineok=<0>基岩方塊已經成功地暴露在天空下。您需要在一個5x5的正方形內暴露25個。
+actions.borehole_success=你已經成功挖掘了地洞！
+
+actions.boreholetnt_success=已放置足夠的TNT。您可以引爆它了。
+actions.boreholetnt_nbtnt=目前<0>TNT已被放置和被黑曜石覆蓋?。您總共需要20個TNT。
+
+actions.boreholetntlit_success=您已把TNT點燃了。請在觀察後把結果報告給煉金術士。
+
+actions.thevoid_success=您在凝視著虛空！
+
+actions.enchantmenttable_success=您已成功地把附魔台放在離聖者足夠近的位置了。
+
+info.culturetitle=民族
+info.culture=<0>民族
+info.culturereputation=聲望：<0>
+info.culturelanguage=語言水平：<0>
+
+culturereputation.dreadful=令人恐懼
+culturereputation.bad=不良
+culturereputation.stellar=神聖的存左
+culturereputation.excellent=優秀
+culturereputation.good=良好
+culturereputation.decent=優良
+culturereputation.neutral=中立
+
+culturelanguage.fluent=流利
+culturelanguage.moderate=中等
+culturelanguage.beginner=初學者
+culturelanguage.minimal=最低限度
+
+
+weapon.criticalstrike=您發出了致命一擊！造成的傷害是原來的<0>倍!
+
+negationwand.villagelocked=<0>仍未能被毀滅。您需要殺死所有的成年男性才可以毀滅它。
+negationwand.confirmmessage=您確定想毀滅村莊<0>嗎？如果您這樣做的話，建築物會保留，但所有的村民將會永久消失。
+negationwand.confirm=確認
+negationwand.cancel=取消
+negationwand.destroyed=村莊<0>已經被毀滅！現在其所有建築物都是空置的並且沒有村民會回來這裏。
+
+relation.excellent=極好
+relation.verygood=非常好
+relation.good=良好
+relation.decent=不錯
+relation.fair=普通
+
+relation.openconflict=公開衝突
+relation.atrocious=極端惡劣
+relation.verybad=非常差
+relation.bad=不良
+relation.chilly=冷淡
+
+relation.neutral=中立
+
+raid.planningstarted=<0>被知悉已經開始籌劃一個對象為<1>的侵略。
+raid.started=<0>開始了其對<1>的侵略！<2>鬥士已加入了戰爭。
+raid.raidsuccesfull=<0>成功地侵略了<1>，盜取了<2>物品！
+raid.raidfailed=<1>成功地阻止了由<0>發起的侵略。
+raid.nothing=無
+raid.historysuccess=成功侵略了<0>。戰利品：<1>
+raid.historyraided=<0>侵略了。戰利品：<1>
+raid.historyfailure=對<0>的侵略失敗了。
+raid.historydefended=成功地阻止了由<0>發起的侵略。
+
+hof.hof=榮譽殿堂
+hof.modcreator=此Mod的創建者
+hof.creatorofmayan1=瑪雅民族
+hof.creatorofmayan2=的創作者
+hof.creatorofjapanese1=日本民族
+hof.creatorofjapanese2=的創作者
+hof.creatorofbyzantine1=的創作者
+hof.creatorofbyzantine2=拜占庭民族
+hof.creatorofindianskins1=的製作者
+hof.creatorofindianskins2=印度人皮膚
+
+hof.skinmaker=皮膚製作者
+hof.buildingmaker=建築物建造者
+hof.wikiadmin=Wiki的管理者
+hof.armouricons=裝甲圖示製作者
+hof.normanarmour1=諾曼裝甲
+hof.normanarmour2=圖像
+hof.support1=對部落格
+hof.support2=的支持
+hof.frenchversion1=幫忙製作
+hof.frenchversion2=法文版本
+hof.wikicontributions=Wiki貢獻者
+hof.improvementsjapanese1=對日本村莊
+hof.improvementsjapanese2=的改良
+hof.lonebuildings=單一建築物
+hof.obsidiantools1=黑曜石工具
+hof.obsidiantools2=的圖示
+hof.forgecode1=Forge Sprite API
+hof.forgecode2=的原編碼
+hof.btw=(BTW創作者)
+hof.forgehelp1=對Forge Sprite API
+hof.forgehelp2=的幫忙
+hof.hofidea1=建造榮譽
+hof.hofidea2=殿堂的想法
+hof.donor=捐獻者
+
+pujas.invanme=法師
+pujas.panditfee=Pandit的費用
+pujas.offering=奉獻物
+pujas.god0=至Hanuman - 速度之神
+pujas.god1=至Shiva - 力量之神
+pujas.god2=至Lakshmi - 幸運之神
+pujas.god3=至Ganesh - 技能之神
+pujas.priestcoming=您需要進行一個法事嗎？你的奉獻精神非常令人欽佩！
+pujas.offeringslot=給眾神一件物品作為奉獻。
+pujas.offeringslot2=祂們不會悅納所有物品。您可以不斷嘗試。
+pujas.moneyslot=放下給pandit的金錢。
+pujas.toolslot=放下需附魔的工具。
+
+culture.norman=Norman
+culture.hindi=Hindi
+culture.japanese=Japanese
+culture.mayan=Mayan
+
+export.errornoname=You must give the building plan's name on the first line.
+export.errornoendsigneast=Could not find the closure sign to the east. It must be in a straight line from the starting one within 256 blocks.
+export.errornoendsignsouth=Could not find the closure sign to the south. It must be in a straight line from the starting one within 256 blocks.
+export.errorlength=The detected length is <0> but there is an existing building plan in the export folder of length <1>.
+export.errorwidth=The detected width is <0> but there is an existing building plan in the export folder of width <1>.
+export.errorstartinglevel=Invalid starting level on line three of the sign.
+export.defaultstartinglevel=No starting level specified, defaulting to -1.
+export.errorunknownblockid=Unknown block type: <0>
+export.buildingexported=Exported building as <0>.
+
+import.notonserver=Importing buildings is not possible on a server.
+import.errornoname=You must give the building plan's name on the first line.
+import.errornotfound=The building requested is not present in millenaire-custom/exports.
+import.buildingupto=Building up to level <0>
+import.errorinvalidupgradelevel=Invalid upgrade level on line two of the sign.
+import.buildinginitialphase=No upgrade level specified, building only the initial stage.
+import.errorupgradeleveltoohigh=Requested upgrade level is higher than available.
+import.doublevertical=Doubled vertical height
+import.buildinglevel=Building level: <0>
+
+effect.towncentre=Village Centre
+effect.shop=Shop: <0>
+effect.irrigation=Irrigation: <0>% extra crops
+effect.pujalocation=Pujas held
+effect.healing=Heals Player
+

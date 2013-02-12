@@ -1,0 +1,15 @@
+native_name=Akrita
+gender=male
+familyNameList=greek_family_names
+firstNameList=greek_men_names
+tag=chief
+
+texture=/graphics/mob/byzanz/farmiller0.png
+
+goal=gorest
+goal=gopray
+goal=goDrink
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+baseAttackStrength=6

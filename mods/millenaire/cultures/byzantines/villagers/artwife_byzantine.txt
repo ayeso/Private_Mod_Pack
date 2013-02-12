@@ -1,0 +1,25 @@
+native_name=Technites Gynaika
+gender=female
+familyNameList=greek_family_names
+firstNameList=greek_women_names
+baseheight=0.85
+health=20
+malechild=boy_byzantine
+femalechild=girl_byzantine
+tag=seller
+model=femalesymmetrical
+
+texture=/graphics/mob/byzanz/art_wife0.png
+
+goal=gorest
+goal=gopray
+goal=deliverResourcesShop
+goal=GetHouseTHResources
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+requiredFood=bread,5
+requiredFood=wine,5
+
+baseAttackStrength=2
+defaultweapon=woodaxe

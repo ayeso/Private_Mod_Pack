@@ -1,0 +1,29 @@
+//English names are generally already present in the building files themselves
+//So this is almost empty
+//Check the French hindi_buiildings file for an example of the format to use
+
+playerestate_A0=Dvorec
+forge_A0=Kovaènica
+armyforge_A0=Vojaska kovaènica
+scultorhouse_A0=Kamnosekova hiša
+archives_A0=Arhivi
+brickkiln_A0=Sušilnica opek
+chiefhouse_A0=Hiša vodje
+fort_A0=Dvorec
+grove_A0=Zasajen gozd
+lumbermanhouse_A0=Gozdarjeva hiša
+paddy_A0=Riževo polje
+pandithouse_A0=Uèenikova hiša
+peasanthouse_A0=Dom
+peasanthouse_B0=Dom
+peasanthouse_C0=Dom
+playerhugefield_A0=Ogromno igralèevo ozemlje
+playerlargefield_A0=Veliko igralèevo ozemlje
+playersmallfield_A0=Majhno igralèevo ozemlje
+playersmallhouse_A0=Majhna igralèeva hiša
+quarry_A0=Kamnolom
+quarry_B0=Kamnolom
+soldierhouse_A0=Stražarjeva hiša
+sugarplantation_A0=Nasad sladkornega trsa
+villagetemple_A0=Cerkev
+playerestate_A0=Igralceva nepremiènine

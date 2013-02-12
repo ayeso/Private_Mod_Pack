@@ -1,0 +1,12 @@
+name:Abbaye isolée
+weight:10
+radius:15
+biome:forest
+
+//extraBiomes mod
+biome:autumn woods
+
+namelist:loneabbeys
+
+//starting buildings:
+centre:loneabbey

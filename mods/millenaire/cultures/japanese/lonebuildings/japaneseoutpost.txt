@@ -1,0 +1,7 @@
+name:Zenshou
+weight:10
+radius:70
+biome:plains
+
+//starting buildings:
+centre:japaneseoutpost

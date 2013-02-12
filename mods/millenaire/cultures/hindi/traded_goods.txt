@@ -1,0 +1,47 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment
+wood,2,1,128,1024,3
+wood_pine,2,1,128,1024
+wood_birch,2,1,128,1024
+wood_jungle,2,1,128,1024
+cobblestone,2,1,128,1024
+stone,5,3,128,1024
+sandstone,6,4,128,1024,8
+glass,5,3,64,512
+iron,25,20,0,10
+villageWand,2*64*64,0,0,0,0,true,,8*64*64
+mudbrick,4,3,0,2048
+cookedbrick,6,5,0,2048
+rice,32,0,0,128,48
+turmeric,64,0,0,64,90
+chickenmeat,2*64,0,0,64,3*64
+rasgulla,20,0,8,0,32,,,64*64
+sugarcane,16,0,16,32,24
+brickmould,64,0,0,0,0,true
+wool_white,0,8,0,0,0
+
+
+steelPickaxe,2*64,2*64,1,1,5*25
+steelAxe,2*64,2*64,1,1
+steelShovel,2*64,2*64,1,1
+steelHoe,2*64,2*64,1,1
+steelHelmet,1*64,1*64,0,0, 6*25
+steelSword,1*64,1*64,0,0, 2*25
+steelChest,4*64,4*64,0,0, 8*25
+steelLegs,3*64,3*64,0,0, 7*25
+steelBoots,2*64,2*64,0,0, 4*25
+bow,2*20,0,0,0,2*25
+				
+indianstatue,5*64,0,0,0,,,,2*64*64
+				
+parchmentIndianVillagers,10,0,0,0,0,true
+parchmentIndianBuildings,10,0,0,0,0,true
+parchmentIndianItems,10,0,0,0,0,true
+parchmentIndianComplete,64,0,0,0,0,true
+
+dye_blue,64,0,0,0,64
+cactus,16,0,0,0,16
+diamond,6*64,0,0,0,6*64
+gold,64,0,0,0,64
+vegcurry,0,0,0,0,150
+chickencurry,0,0,0,0,300
+

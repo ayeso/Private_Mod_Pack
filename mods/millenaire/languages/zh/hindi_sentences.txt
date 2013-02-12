@@ -1,0 +1,67 @@
+
+villager.greeting=Namaste, $name-ji! / 你好，$name-ji！
+villager.greeting=Aaj bahut garmi hai. / 今天很熱呢。
+villager.greeting=Kya haal hai? / 最近好嗎？
+villager.greeting=Kya khabar hai? / 有甚麼小消息嗎？
+villager.greeting=Ghar par sa theek hain? / 不知家人是否安好？
+villager.greeting=Yeh barish kyun nahin ho rahi? / 怎麼現在不下雨？
+villager.greeting=Kya tum se kale pani se pare ho? / 你是從大海的另一邊來的嗎？
+indian_pandit.greeting=Jeetey raho. / 祝你長命百歲。
+merchant_oriental.greeting=Salam alaikum, bhai! / 朋友，願和平降福你！
+merchant_adivasi.greeting=Main van se a raha hoon / 我剛從森林到達。
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / 旅遊對單身女性來說是困難的。
+
+male.gorest=Ab jaakey aaram karta hoon. / 我要去休息了。
+male.gorest=Subah sey kaam kar raha hoon. / 我從早上開始便已不停工作。
+male.gorest=Main thak gaya hoon. / 我很累。
+
+female.gorest=Ab jaakey aaram karti hoon. / 我要去休息了。
+female.gorest=Subah sey kaam kar rahi hoon. / 我從早上開始便已不停工作。
+female.gorest=Main thak gayi hoon. / 我很累。
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / 我的神啊，求祢使收成順利吧。
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / 神，祢是我們唯一的希望了。
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / 帶這麼多的木材回家是很困難的。
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / 我似乎一生都要以砍樹為生了。
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / 現在我就要收集全部木村了。
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / 我種越多的樹，往後的生活便會越好。
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / 你需要多少塊磚頭來蓋房子？
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / 今天陽光強烈，它們很快便會乾燥。
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / 看這些磚頭在火中燒得多好。
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / 如果下大雨，今年將會是大豐收。
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / 因為這段時間雨量充沛，收成也一樣不錯。
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / 不管怎麼說，每個人都需要薑黃。
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / 收割這些薑黃把我的手染成了黃色。
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / 我的素菜咖哩太多了！
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / 所有東西最終都歸房東所有。
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / 無論你為家庭付出多少，都是遠遠不夠的！
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / 我怎能一個人把這些食物都搬走？
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / 孩子們愛吃Rasgulla。
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / 讓我來看看，一噸磚頭，兩噸石頭......
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / 世界各地的印度建築都很著名。
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / 當我完成這個工作時，我要蓋一座紅色的堡壘。
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / 我愛在泥土中玩。
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / 玩了一個童年，是時候工作了。
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / 我年輕的時候，曾經想成為一個偉大的戰士...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / 我曾經夢過自己嫁給一個王子...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / 是時候再次前往寺廟。
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / 如果我不好好整理寺廟，誰會呢？
+
+villager.calltoarms=Jeet hamari hoogi. / 勝利將會是屬於我們的。
+villager.calltoarms=Dushmano ki haar. / 擊敗敵人！
+villager.calltoarms=Sab apney apney hathiyar utha lo! / 大家拿起自己的武器！
+
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / 每個人都用我製造的工具，但每個人都瞧不起我。
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / 製作武器比製作工具的人更享負盛名！
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / 雕塑是石塊和孔洞的藝術。
+
+merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / 見證波斯王國的輝煌！
+merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / 這裏的一切都是由我在叢林深處的家庭自製的。
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / 為飢餓的旅客所準備的自製食物！

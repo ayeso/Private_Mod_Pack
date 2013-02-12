@@ -1,0 +1,10 @@
+0;Cizinec;Jako prirozeni obchodnici k nam prijmeme kazdeho. Ale neverime mu.
+4*64;Znama tvar;V posledni dobe si tu videt velmi casto.
+16*64;Pravidelny navstevnik;Xaire, $name! Je pekne te videt. Jak se dari?
+64*64;Oblibeny obchodnik;Vsichni jsou radi ze te vidi. Mas neco na vymenu?
+2*64*64;Pritel vesnice;Verime ti. Stal ses casti nasi vesnice $name!
+8*64*64;Jeden z nas;Pro nas si Rimsky obcan $name. Mozna ses mezi nami nenarozidl, ale ted se muzes hrde nazyvat pravym Rimanem.
+32*64*64;Prirozeny vudce;$name, ziskal si duveru a respekt Rimanu. Budou te nasledovat kamkoliv.
+-64;Protiva;Nejsi zrovna spravny, $name. Hlidej se!
+-4*64;Neprijemny outsider;Sneseme obchodniky, ale ne lidi jako ty! Davej si pozor.
+-16*64;Verejny nepritel;Je ponekud trapne, ze te cela Rimska rise nechala zit. Pokud te bavi zivot, odejdi a nikdy se nevracej.

@@ -1,0 +1,13 @@
+name:Panthéon
+weight:10
+max:1
+radius:120
+biome:forest
+biome:desert
+biome:taiga
+biome:ice plains
+generateonserver:false
+
+
+//starting buildings:
+centre:pantheon

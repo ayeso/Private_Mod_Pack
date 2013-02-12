@@ -1,0 +1,21 @@
+native_name=Epicheirimatias Trophi
+gender=male
+familyNameList=greek_family_names
+firstNameList=greek_men_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=10
+
+texture=/graphics/mob/byzanz/farmer0.png
+
+goal=gorest
+goal=gopray
+goal=godrink
+goal=keepStall
+
+startingInv=wine,25
+startingInv=grapes,5
+startingInv=bread,20
+
+baseAttackStrength=5
+experiencegiven=3

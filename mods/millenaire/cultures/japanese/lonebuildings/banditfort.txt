@@ -1,0 +1,13 @@
+name:Zokuto no Bakusha
+carriesraid:true
+
+
+weight:10
+radius:50
+biome:extreme hills
+biome:foresthills
+biome:forest
+biome:taiga
+
+//starting buildings:
+centre:banditfort

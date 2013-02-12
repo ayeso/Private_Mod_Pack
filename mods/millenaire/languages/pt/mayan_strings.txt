@@ -1,0 +1,43 @@
+culture.mayan=Maia
+
+villager.mayan_boy=Rapaz
+villager.mayan_girl=Rapariga
+villager.mayan_teenagerMale=Jovem
+villager.mayan_teenagerFemale=Jovem
+villager.mayan_lumberman=Lenhador
+villager.mayan_miner=Mineiro
+villager.mayan_shaman=Xamã
+villager.mayan_peasant=Camponês
+villager.mayan_peasantwife=Camponesa
+villager.mayan_leader=Chefe
+villager.mayan_richwoman=Rainha
+villager.mayan_warrior=Guerreiro
+villager.mayan_chieftain=Chefe
+villager.mayan_crafter=Artesão
+villager.mayan_armysmith=Ferreiro Militar
+villager.mayan_sculptor=Escultor
+villager.mayan_shamanwife=Esposa do Xamã
+villager.mayan_king=Rei
+villager.mayan_merchant=Comerciante
+villager.mayan_chickenfarmer=Avicultor
+villager.mayan_farmer=Agricultor
+villager.mayan_obsidiancrafter=Artesão de Obsidiana
+
+villager.lonemayanfarmer=Agricultor
+villager.lonemayanpeasantwife=Agricultora
+villager.lonemayanshaman=Xamã
+villager.lonemayanshamanwife=Esposa do Xamã
+villager.mayanbanditboy=Jovem Bandido
+villager.mayanbanditwarrior=Bandido
+villager.mayanfemalebandit=Bandida
+
+villager.merchant_mayanfarmer=Comerciante Agricultor
+villager.merchant_mayanhunter=Comerciante Caçador
+villager.merchant_mayanshaman=Comerciante Xamã
+
+shop.mayantownhall=Loja Central
+shop.mayancrafter=Ferramentas
+shop.mayanarmyforge=Armas e Armaduras
+shop.mayansheepchickenfarm=Produtos de Aves
+shop.mayanobsidiancrafter=Objectos de Obsidiana
+shop.lonemayanfarm=Productos Agrícolas

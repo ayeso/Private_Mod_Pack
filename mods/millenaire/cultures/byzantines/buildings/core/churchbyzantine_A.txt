@@ -1,0 +1,10 @@
+max:0;priority:2000;native:Orthodoxe Ekklesia;around:5;startLevel:-1;orientation:3;length:44;width:30;signs:1,2,3,0,5,4,6,7,8;shop:townhall;male:patriarch_byzantine;subbuilding:churchbyzantine_A_altar
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1;tag:Patrol

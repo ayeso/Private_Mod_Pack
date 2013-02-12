@@ -1,0 +1,19 @@
+native_name=Lathremporoi Metaxi
+gender=male
+familyNameList=greek_family_names
+firstNameList=greek_men_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=1
+
+texture=/graphics/mob/byzanz/silksmuggler0.png
+
+goal=gorest
+goal=gopray
+goal=godrink
+goal=keepStall
+
+merchantstock=silk,32
+
+baseAttackStrength=5
+experiencegiven=3
