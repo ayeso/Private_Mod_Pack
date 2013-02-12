@@ -38,6 +38,7 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * Railcraft __Current:__ 6.15.2.0 - __Latest:__ 6.15.3.0 - https://github.com/ayeso/Private_Mod_Pack/wiki/Railcraft
 * Redpower __Current:__ 2.0pre6 - __Latest:__ 2.0pre6 - https://github.com/ayeso/Private_Mod_Pack/wiki/Redpower
 * Rei's minimap __Current:__ 3.2_06 - __Latest:__ 3.2_06 - https://github.com/ayeso/Private_Mod_Pack/wiki/Reis_minimap
+* Runic Dust mod __Current:__ N/A - __Latest:__ N/A - https://github.com/ayeso/Private_Mod_Pack/wiki/Runic_dust
 * Season Mod __Current:__ ??? - __Latest:__ ??? - https://github.com/ayeso/Private_Mod_Pack/wiki/Season
 * Smart Moving __Current:__ 12.2 - __Latest:__ 12.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/Smart_Moving
 * StevesCarts __Current:__ 2.0.0.a49 - __Latest:__ 2.0.0.a49 - https://github.com/ayeso/Private_Mod_Pack/wiki/StevesCarts
