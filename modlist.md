@@ -12,6 +12,7 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * Charge Pads __Current:__ 2.4.0.64 - __Latest:__ 2.4.0.64 - https://github.com/ayeso/Private_Mod_Pack/wiki/Charge_Pads
 * Chest Transporter __Current:__ 1.1.5  - __Latest:__ 1.1.5  - https://github.com/ayeso/Private_Mod_Pack/wiki/Chest_Transporter
 * Enderstorage  __Current:__ 1.3.1.1 - __Latest:__ 1.3.1.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/Enderstorage
+* Essentia Everything __Current N/A:__ - __Latest:__ N/A - https://github.com/ayeso/Private_Mod_Pack/wiki/Essentia
 * Extra Bees __Current:__ 1.5.0.2 - __Latest:__ 1.5.0.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/Extra_Bees
 * ExtraBiomesXL	__Current:__ 3.9.0 - __Latest:__ 3.9.0 - https://github.com/ayeso/Private_Mod_Pack/wiki/ExtraBiomesXL
 * Factorization	__Current:__ 0.7.10 - __Latest:__ 0.7.10 - https://github.com/ayeso/Private_Mod_Pack/wiki/Factorization
