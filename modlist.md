@@ -29,6 +29,7 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * Mekanism __Current:__ 5.2.3 - __Latest:__ 5.2.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/Mekanism
 * MFFS __Current:__ 4.7b - __Latest:__ 4.7b - https://github.com/ayeso/Private_Mod_Pack/wiki/MFFS
 * Millenare	 __Current:__ 1.4.7 - __Latest:__ 1.4.8 - https://github.com/ayeso/Private_Mod_Pack/wiki/Millenare
+* Mo'Creatures __Current:__ N/A - __Latest:__ N/A - https://github.com/ayeso/Private_Mod_Pack/wiki/Mo_creatures
 * Modular Powersuits __Current:__ 0.2.0-42 - __Latest:__ 0.2.0-42 - https://github.com/ayeso/Private_Mod_Pack/wiki/Modular_Powersuits
 * Mouse Tweaks __Current:__ Beta 4  - __Latest:__ Beta 4  - https://github.com/ayeso/Private_Mod_Pack/wiki/Mouse_Tweaks 
 * NEI __Current:__ 1.4.5.0 - __Latest:__ 1.4.5.0 - https://github.com/ayeso/Private_Mod_Pack/wiki/NEI
