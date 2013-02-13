@@ -4,7 +4,6 @@ Permissionlist for private modpack:
 * AdvancedSolarPanels by SeNtiMeL - __Spreadsheet__
 * CompactSolars by cpw  - __Spreadsheet__
 * ComputerCraft by Dan200	- __Spreadsheet__
-* Equivalent by Exchange 3	Pahimar	- __Spreadsheet__
 * ExtraBiomesXL by ScottKillen and MisterFiber	- __Spreadsheet__
 * Forestr by	SirSengir	- __Spreadsheet__
 * Forge/FML by LexManos, cpw, ...	- __Spreadsheet__
@@ -18,7 +17,6 @@ Permissionlist for private modpack:
 * IC2NuclearControl by Shedar	- __Spreadsheet__
 * Petroleum Generator by DrCeph	- __Spreadsheet__
 * Railcraft by CovertJaguar	- __Spreadsheet__
-* Soul Shards by ShadwDrgn	- __Spreadsheet__
 * Thaumcraft 3 by Azanor	- __Spreadsheet__
 * The Twilight Forest by Benimatic	- __Spreadsheet__
 
