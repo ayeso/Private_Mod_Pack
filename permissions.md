@@ -2,6 +2,7 @@ Permissionlist for private modpack:
 * StargateTech by LordFokas given __13.02.2013 15:42 (GMT+1 on his IRC-channel)__ - https://gist.github.com/Sp0nge/8c468d5ecc838710e41a
 * AdvancedMachines by Atomicstryker - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
 * AdvancedSolarPanels by SeNtiMeL - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291
+* Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
 * ComputerCraft by Dan200	- __Spreadsheet__ http://www.computercraft.info/
 * ExtraBiomesXL by ScottKillen and MisterFiber	- __Spreadsheet__ http://www.minecraftforum.net/topic/1090288-extrabiomesxl-390/
 * Forestr by	SirSengir	- __Spreadsheet__ http://forestry.sengir.net/wiki.new/doku.php
