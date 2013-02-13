@@ -5,6 +5,7 @@ Permissionlist for private modpack:
 * Advanced Power System by dAkshEN3 - __http://buildcraftaps.wikispaces.com/Permissions__
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
 * BiblioCraft by Nuchaz - __Permission pending__
+* BrainTech Author by "I don't now" - http://www.raceinfo.no/temp/badp-perm.jpg
 * ComputerCraft by Dan200	- __Spreadsheet__ http://www.computercraft.info/
 * ExtraBiomesXL by ScottKillen and MisterFiber	- __Spreadsheet__ http://www.minecraftforum.net/topic/1090288-extrabiomesxl-390/
 * Forestr by	SirSengir	- __Spreadsheet__ http://forestry.sengir.net/wiki.new/doku.php
