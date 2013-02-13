@@ -20,3 +20,5 @@ Permissionlist for private modpack:
 * Thaumcraft 3 by Azanor	- __Spreadsheet__
 * The Twilight Forest by Benimatic	- __Spreadsheet__
 
+FORMAT
+* (modname) by __(author)__ - __(permission link)__ - (link to mod page/forum)
