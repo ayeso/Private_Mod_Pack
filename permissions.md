@@ -23,6 +23,7 @@ Permissionlist for private modpack:
 * MouseTweaks by YaLTeR97 - __Permission pending__
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
 * NEIPlugins by mistaqur	- __Spreadsheet__ https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
+* PluginForForestry2 by denoflions -__Distributed under "open license"__ : http://www.minecraftforum.net/topic/1253666-147forgeplugins-for-forestry-2-wiki-now-updated/
 * IC2NuclearControl by Shedar	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
 * Petroleum Generator by DrCeph	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=8385
 * Railcraft by CovertJaguar	- __Spreadsheet__ http://railcraft.wikispaces.com/
