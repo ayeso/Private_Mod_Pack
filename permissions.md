@@ -20,6 +20,7 @@ Permissionlist for private modpack:
 * Jammy Furniture by Jammy780 - __Permission pending__
 * Millenare by Kinniken - __Permission pending__
 * Modular Powersuits by MachineMuse - __Free to use license__ : http://www.machinemuse.net/modpacks.php
+* MouseTweaks by YaLTeR97 - __Permission pending__
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
 * NEIPlugins by mistaqur	- __Spreadsheet__ https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
 * IC2NuclearControl by Shedar	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
