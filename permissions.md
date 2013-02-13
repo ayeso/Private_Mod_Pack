@@ -8,6 +8,7 @@ Permissionlist for private modpack:
 * BrainTech Author by "I don't now" - http://www.raceinfo.no/temp/badp-perm.jpg
 * Chest Transporter - __Permission pending__
 * ComputerCraft by Dan200	- __Spreadsheet__ http://www.computercraft.info/
+* Essentia Everything by Qwertygiy - __Allowed to be used in any modpack__ - http://www.minecraftforum.net/topic/1666956-146-147thaumcraft3essentia-everything-232b-keybored-industries-tc3-addons/
 * ExtraBiomesXL by ScottKillen and MisterFiber	- __Spreadsheet__ http://www.minecraftforum.net/topic/1090288-extrabiomesxl-390/
 * Forestr by	SirSengir	- __Spreadsheet__ http://forestry.sengir.net/wiki.new/doku.php
 * Forge/FML by LexManos, cpw, ...	- __Spreadsheet__ http://minecraftforge.net
