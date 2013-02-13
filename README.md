@@ -1,4 +1,4 @@
-http://jenkins.getonmylevel.ca/job/Configs_for_Private_Modpack/
+http://jenkins.getonmylevel.ca/
 
 Private FTB Mod Pack for FTB-CRAFT and GOML
 
