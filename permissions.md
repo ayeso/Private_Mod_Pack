@@ -32,6 +32,7 @@ Permissionlist for private modpack:
 * SmartMoving by Divisor - __Permission pending__
 * Thaumcraft 3 by Azanor	- __Spreadsheet__ http://www.minecraftforum.net/topic/1585216-thaumcraft-303-updated-122013/
 * The Twilight Forest by Benimatic	- __Spreadsheet__ http://twilightforest.wikispaces.com/
+* Valve Pipes by denoflions - __Distributed under his "free to use lincense" - http://www.minecraftforum.net/topic/1536511-147buildcraft-valve-pipe-and-more-131/
 
 FORMAT
 * (modname) by __(author)__ - __(permission link)__ - (link to mod page/forum)
