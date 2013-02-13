@@ -11,6 +11,7 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * BuildCraft __Current:__ 3.4.3 - __Latest:__ 3.4.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/BuildCraft
 * Charge Pads __Current:__ 2.4.0.64 - __Latest:__ 2.4.0.64 - https://github.com/ayeso/Private_Mod_Pack/wiki/Charge_Pads
 * Chest Transporter __Current:__ 1.1.5  - __Latest:__ 1.1.5  - https://github.com/ayeso/Private_Mod_Pack/wiki/Chest_Transporter
+* Code Chicken Core __Current:__ 0.7.0.2  - __Latest:__ 0.7.0.2  - https://github.com/ayeso/Private_Mod_Pack/wiki/CodeChicken
 * Enderstorage  __Current:__ 1.3.1.1 - __Latest:__ 1.3.1.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/Enderstorage
 * Essentia Everything __Current N/A:__ - __Latest:__ N/A - https://github.com/ayeso/Private_Mod_Pack/wiki/Essentia
 * Extra Bees __Current:__ 1.5.0.2 - __Latest:__ 1.5.0.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/Extra_Bees
@@ -18,7 +19,6 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * Factorization	__Current:__ 0.7.10 - __Latest:__ 0.7.10 - https://github.com/ayeso/Private_Mod_Pack/wiki/Factorization
 * Forestry	__Current:__ 2.0.0.9 - __Latest:__ 2.0.0.9 - https://github.com/ayeso/Private_Mod_Pack/wiki/Forestry
 * Gravitation Suite	__Current:__ 1.6  - __Latest:__ 1.6  - https://github.com/ayeso/Private_Mod_Pack/wiki/Gravitation_Suite	
-* Greg SGCraft __Current:__ 0.2.0 - __Latest:__ 0.2.0 - https://github.com/ayeso/Private_Mod_Pack/wiki/SGCraft
 * GregTech Mod __Current:__ 2.78e  - __Latest:__ 2.78e  - https://github.com/ayeso/Private_Mod_Pack/wiki/GregTech
 * Harvest Craft	__Current:__ 1.03  - __Latest:__ 1.03  - https://github.com/ayeso/Private_Mod_Pack/wiki/Harvest_Craft	
 * IC Addon: Combo Armors __Current:__ 1.11 - __Latest:__ 1.11 - https://github.com/ayeso/Private_Mod_Pack/wiki/Combo_Armors	
@@ -26,6 +26,7 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * IC2 NuclearControl __Current:__ 1.4.6 - __Latest:__ 1.4.6 - https://github.com/ayeso/Private_Mod_Pack/wiki/IC2_NuclearControl
 * InfiCraft __Current:__ 2013.1.11 - __Latest:__ 2013.1.11 - https://github.com/ayeso/Private_Mod_Pack/wiki/InfiCraft
 * Iron Chests __Current:__ 5.0.1.246 - __Latest:__ 5.0.1.246 - https://github.com/ayeso/Private_Mod_Pack/wiki/Iron_Chests
+* Inventory Tweaks __Current:__ 1.5  - __Latest:__ 1.5  - https://github.com/ayeso/Private_Mod_Pack/wiki/InvTweaks
 * Jammy Furniture	V4.1 __Current:__ V4.1 - __Latest:__ V4.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/Jammy_Furniture
 * Mekanism __Current:__ 5.2.3 - __Latest:__ 5.2.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/Mekanism
 * MFFS __Current:__ 4.7b - __Latest:__ 4.7b - https://github.com/ayeso/Private_Mod_Pack/wiki/MFFS
@@ -45,9 +46,11 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * Season Mod __Current:__ ??? - __Latest:__ ??? - https://github.com/ayeso/Private_Mod_Pack/wiki/Season
 * Smart Moving __Current:__ 12.2 - __Latest:__ 12.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/Smart_Moving
 * StevesCarts __Current:__ 2.0.0.a49 - __Latest:__ 2.0.0.a49 - https://github.com/ayeso/Private_Mod_Pack/wiki/StevesCarts
+* StargateTech __Current:__ Alpha 0.6 - __Latest:__ Alpha 0.6 - https://github.com/ayeso/Private_Mod_Pack/wiki/StargateTech
 * Thaumcraft __Current:__ 3.0.3 - __Latest:__ 3.0.3 - https://github.com/ayeso/Private_Mod_Pack/wiki/Thaumcraft
 * Thaumic Bees	__Current:__ 1.3.0d - __Latest:__ 1.3.0d - https://github.com/ayeso/Private_Mod_Pack/wiki/Thaumic_Bees
 * ThermalExpansion __Current:__ 2.2.1- __Latest:__ 2.2.1 - https://github.com/ayeso/Private_Mod_Pack/wiki/ThermalExpansion
+* The Twilight Forest __Current:__ 1.15.2 __Latest:__ 1.15.2 - https://github.com/ayeso/Private_Mod_Pack/wiki/TwilightForest
 * TubeStuff __Current:__ N/A - __Latest:__ N/A - https://github.com/ayeso/Private_Mod_Pack/wiki/TubeStuff
 * Universal Electricity	 __Current:__ ??? - __Latest:__ ??? - https://github.com/ayeso/Private_Mod_Pack/wiki/Universal_Electricity
 * Valve Pipes (and more!) __Current:__ 6 - __Latest:__ 6 - https://github.com/ayeso/Private_Mod_Pack/wiki/Valve_Pipes
