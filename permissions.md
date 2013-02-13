@@ -17,6 +17,7 @@ Permissionlist for private modpack:
 * GraviSuite by SeNtiMeL	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
 * GregTechMod by GregoriusT	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156
 * IronChests by cpw	- __Spreadsheet__ http://www.minecraftforum.net/topic/981855-147-13w02b-forge-universal-ironchests-50-obsidian-chests/
+* Jammy Furniture by Jammy780 - __Permission pending__
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
 * NEIPlugins by mistaqur	- __Spreadsheet__ https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
 * IC2NuclearControl by Shedar	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
