@@ -27,6 +27,7 @@ Permissionlist for private modpack:
 * IC2NuclearControl by Shedar	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
 * Petroleum Generator by DrCeph	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=8385
 * Railcraft by CovertJaguar	- __Spreadsheet__ http://railcraft.wikispaces.com/
+* Season mod by The_WeatherPony - __Permission pending__
 * SmartMoving by Divisor - __Permission pending__
 * Thaumcraft 3 by Azanor	- __Spreadsheet__ http://www.minecraftforum.net/topic/1585216-thaumcraft-303-updated-122013/
 * The Twilight Forest by Benimatic	- __Spreadsheet__ http://twilightforest.wikispaces.com/
