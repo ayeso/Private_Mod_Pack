@@ -21,7 +21,6 @@ Permissionlist for private modpack:
 * ForgeIRC by ShadwDrgn	- __Spreadsheet__ http://www.minecraftforum.net/topic/1475847-146-forgeirc-v1014-soul-shards-v126-and-recipe-remover-v11-updated-122013/
 * GraviSuite by SeNtiMeL	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
 * GregTechMod by GregoriusT	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156
-* Harvest Craft
 * IndustrialCraft2 by Alblaka - http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
 * IC2NuclearControl by Shedar  - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
