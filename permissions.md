@@ -47,7 +47,7 @@ Permissionlist for private modpack:
 * SmartMoving by Divisor - https://gist.github.com/Sp0nge/3295b48eeeb14d08ed88 - http://www.minecraftforum.net/topic/361430-147smp-smart-moving/
 * StargateTech by LordFokas given __13.02.2013 15:42 (GMT+1 on his IRC-channel)__ - https://gist.github.com/Sp0nge/8c468d5ecc838710e41a
 * SteveCarts by Vswe - Usage granted due to website - http://stevescarts2.wikispaces.com/
-* Thaumcraft 3 by Azanor	- Exception for this rule are private server modpacks that won't be publically available.
+* Thaumcraft 3 by Azanor	- __Permission pending__
 * Thaumic Bees 
 * ThermalExpansion by King Lemming - Usage not prohibited - http://thermalexpansion.wikispaces.com/License
 * The Twilight Forest by Benimatic	- __Spreadsheet__ http://twilightforest.wikispaces.com/
