@@ -5,18 +5,19 @@ Mods:
 * Advanced Machines __Author:__ AtomicStryker - https://github.com/ayeso/Private_Mod_Pack/wiki/Advanced_Machines
 * Advanced Solar Panels __Author:__ SeNtiMeL  - https://github.com/ayeso/Private_Mod_Pack/wiki/Advanced_Solars
 * Advance Power Systems   __Author:__ dAkshEN3 - https://github.com/ayeso/Private_Mod_Pack/wiki/APS
+* Applied Energistics __Author:__ AlgorithmX2 - https://github.com/ayeso/Private_Mod_Pack/wiki/AE
 * BiblioCraft __Author:__ Nuchaz - https://github.com/ayeso/Private_Mod_Pack/wiki/BiblioCraft
 * BrainTech  __Author:__ I don't now (yeah, thats the actuall name of the dev) - https://github.com/ayeso/Private_Mod_Pack/wiki/BrainTech
 * BuildCraft __Author:__ SirSengir - https://github.com/ayeso/Private_Mod_Pack/wiki/BuildCraft
 * Charge Pads __Author:__ Myrathi - https://github.com/ayeso/Private_Mod_Pack/wiki/Charge_Pads
 * Chest Transporter __Author:__ CubeX2  - https://github.com/ayeso/Private_Mod_Pack/wiki/Chest_Transporter
 * Enderstorage  __Author:__ chicken_bones - https://github.com/ayeso/Private_Mod_Pack/wiki/Enderstorage
+* Essentia Everything __Author:__ Qwertygiy - https://github.com/ayeso/Private_Mod_Pack/wiki/Essentia
 * Extra Bees __Author:__ binnie - https://github.com/ayeso/Private_Mod_Pack/wiki/Extra_Bees
 * ExtraBiomesXL __Author:__ MisterFiber - https://github.com/ayeso/Private_Mod_Pack/wiki/ExtraBiomesXL
 * Factorization	__Author:__ neptunepink - https://github.com/ayeso/Private_Mod_Pack/wiki/Factorization
 * Forestry	__Author:__ SirSengir - https://github.com/ayeso/Private_Mod_Pack/wiki/Forestry
 * Gravitation Suite	__Author:__ SeNtiMeL  - https://github.com/ayeso/Private_Mod_Pack/wiki/Gravitation_Suite	
-* Greg SGCraft __Author:__ Greg_Ewing - https://github.com/ayeso/Private_Mod_Pack/wiki/SGCraft
 * GregTech Mod __Author:__ GregoriusT  - https://github.com/ayeso/Private_Mod_Pack/wiki/GregTech
 * Harvest Craft	__Author:__ ???  - https://github.com/ayeso/Private_Mod_Pack/wiki/Harvest_Craft	
 * IC Addon: Combo Armors __Author:__ UnixRano - https://github.com/ayeso/Private_Mod_Pack/wiki/Combo_Armors	
@@ -38,12 +39,14 @@ Mods:
 * Railcraft __Author:__ CovertJaguar - https://github.com/ayeso/Private_Mod_Pack/wiki/Railcraft
 * Redpower __Author:__ Eloraam - https://github.com/ayeso/Private_Mod_Pack/wiki/Redpower
 * Rei's minimap __Author:__ ReiFNSK - https://github.com/ayeso/Private_Mod_Pack/wiki/Reis_minimap
+* Runic Dust __Author:__ billythegoat101 - https://github.com/ayeso/Private_Mod_Pack/wiki/Runic
 * Season Mod __Author:__ The_WeatherPony - https://github.com/ayeso/Private_Mod_Pack/wiki/Season
 * Smart Moving __Author:__ Divisor - https://github.com/ayeso/Private_Mod_Pack/wiki/Smart_Moving
 * StevesCarts __Author:__ Vswe - https://github.com/ayeso/Private_Mod_Pack/wiki/StevesCarts
 * Thaumcraft __Author:__ Azanor - https://github.com/ayeso/Private_Mod_Pack/wiki/Thaumcraft
 * Thaumic Bees	__Author:__ MysteriousAges - https://github.com/ayeso/Private_Mod_Pack/wiki/Thaumic_Bees
 * ThermalExpansion __Author:__ King Lemming - https://github.com/ayeso/Private_Mod_Pack/wiki/ThermalExpansion
+* Twilight Forest __Author:__ Benimatic - https://github.com/ayeso/Private_Mod_Pack/wiki/Twilight
 * Universal Electricity	 __Author:__ Calclavia - https://github.com/ayeso/Private_Mod_Pack/wiki/Universal_Electricity
 * Valve Pipes (and more!) __Author:__ denoflions - https://github.com/ayeso/Private_Mod_Pack/wiki/Valve_Pipes
 * Wireless Redstone CBE __Author:__ chicken_bones - https://github.com/ayeso/Private_Mod_Pack/wiki/WRCBE
