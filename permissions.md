@@ -4,7 +4,7 @@ Permissionlist for private modpack:
 * AdvancedSolarPanels by SeNtiMeL - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291
 * Advanced Power System by dAkshEN3 - __http://buildcraftaps.wikispaces.com/Permissions__
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
-* BiblioCraft by Nuchaz - __Permission pending__
+* BiblioCraft by Nuchaz - https://gist.github.com/Sp0nge/6eec444db453ac25ab8a - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
 * BrainTech Author by "I don't now" - http://www.raceinfo.no/temp/badp-perm.jpg
 * Chest Transporter - __Permission pending__
 * ComputerCraft by Dan200	- __Spreadsheet__ http://www.computercraft.info/
