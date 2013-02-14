@@ -6,7 +6,7 @@ Permissionlist for private modpack:
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
 * BiblioCraft by Nuchaz - https://gist.github.com/Sp0nge/6eec444db453ac25ab8a - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
 * BrainTech Author by "I don't now" - http://www.raceinfo.no/temp/badp-perm.jpg
-* Chest Transporter - __Permission pending__
+* Chest Transporter - "You can use the mod in your private mod pack." - http://www.minecraftforum.net/topic/506109-147-cubex2s-mods-multi-page-chest-updated/
 * ComputerCraft by Dan200	- __Spreadsheet__ http://www.computercraft.info/
 * ComboArmors by   UnixRano - __Permission pending__
 * Essentia Everything by Qwertygiy - __Allowed to be used in any modpack__ - http://www.minecraftforum.net/topic/1666956-146-147thaumcraft3essentia-everything-232b-keybored-industries-tc3-addons/
