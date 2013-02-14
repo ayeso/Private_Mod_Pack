@@ -18,7 +18,7 @@ Permissionlist for private modpack:
 * GregTechMod by GregoriusT	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156
 * IronChests by cpw	- __Spreadsheet__ http://www.minecraftforum.net/topic/981855-147-13w02b-forge-universal-ironchests-50-obsidian-chests/
 * Jammy Furniture by Jammy780 - __Permission pending__
-* Millenare by Kinniken - __Permission pending__
+* Millenare by Kinniken - https://gist.github.com/Sp0nge/f006e4bb81f903889ea2 - http://www.millenaire.org/
 * Modular Powersuits by MachineMuse - __Free to use license__ : http://www.machinemuse.net/modpacks.php
 * MouseTweaks by YaLTeR97 - __Permission pending__
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
