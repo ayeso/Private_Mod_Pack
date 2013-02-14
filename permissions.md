@@ -29,7 +29,7 @@ Permissionlist for private modpack:
 * Railcraft by CovertJaguar	- __Spreadsheet__ http://railcraft.wikispaces.com/
 * Runic Dust by billythegoat101 - __Permissiom pending__
 * Season mod by The_WeatherPony - __Permission pending__
-* SmartMoving by Divisor - __Permission pending__
+* SmartMoving by Divisor - https://gist.github.com/Sp0nge/3295b48eeeb14d08ed88 - http://www.minecraftforum.net/topic/361430-147smp-smart-moving/
 * Thaumcraft 3 by Azanor	- __Spreadsheet__ http://www.minecraftforum.net/topic/1585216-thaumcraft-303-updated-122013/
 * The Twilight Forest by Benimatic	- __Spreadsheet__ http://twilightforest.wikispaces.com/
 * Valve Pipes by denoflions - __Distributed under his "free to use lincense" - http://www.minecraftforum.net/topic/1536511-147buildcraft-valve-pipe-and-more-131/
