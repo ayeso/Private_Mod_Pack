@@ -1,5 +1,5 @@
 Permissionlist for private modpack:
-* AdvancedMachines by Atomicstryker - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
+* AdvancedMachines by Atomicstryker - __Permission pending__
 * AdvancedSolarPanels by SeNtiMeL - Need Explicit permissions
 * Advanced Power System by dAkshEN3 - __http://buildcraftaps.wikispaces.com/Permissions__
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
@@ -27,13 +27,13 @@ Permissionlist for private modpack:
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
 * Inventory Tweaks 
 * IronChests by cpw	- __Spreadsheet__ http://www.minecraftforum.net/topic/981855-147-13w02b-forge-universal-ironchests-50-obsidian-chests/
-* Jammy Furniture by Jammy780 - __Permission pending__
+* Jammy Furniture by Jammy780 - https://gist.github.com/Sp0nge/d567518f9f0083014f27 - http://www.minecraftforum.net/topic/1098808-v41-147-forge-smp-jammy-furniture-mod/
 * Millenare by Kinniken - https://gist.github.com/Sp0nge/f006e4bb81f903889ea2 - http://www.millenaire.org/
 * Mekanism by aidancbrady - Under open license due credits made - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8866
 * MFFS by Thunderdark - Modpacks for the FTB launcher have always permission you not need PM me - http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292
 * Modular Powersuits by MachineMuse - __Free to use license__ : http://www.machinemuse.net/modpacks.php
 * MouseTweaks by YaLTeR97 - https://gist.github.com/Sp0nge/27bf8925f339b6bf200c - http://www.minecraftforum.net/topic/1518185-147-146-sspsmp-mouse-tweaks-beta-4/
-* Mo'Creatures
+* Mo'Creatures __N/A__
 * NEI by chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
 * NEIPlugins by mistaqur	- __Spreadsheet__ https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
 * Obsidiplates Myrathi - http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43098
