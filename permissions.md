@@ -20,7 +20,7 @@ Permissionlist for private modpack:
 * Jammy Furniture by Jammy780 - __Permission pending__
 * Millenare by Kinniken - https://gist.github.com/Sp0nge/f006e4bb81f903889ea2 - http://www.millenaire.org/
 * Modular Powersuits by MachineMuse - __Free to use license__ : http://www.machinemuse.net/modpacks.php
-* MouseTweaks by YaLTeR97 - __Permission pending__
+* MouseTweaks by YaLTeR97 - https://gist.github.com/Sp0nge/27bf8925f339b6bf200c - http://www.minecraftforum.net/topic/1518185-147-146-sspsmp-mouse-tweaks-beta-4/
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
 * NEIPlugins by mistaqur	- __Spreadsheet__ https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
 * PluginForForestry2 by denoflions -__Distributed under "open license"__ : http://www.minecraftforum.net/topic/1253666-147forgeplugins-for-forestry-2-wiki-now-updated/
