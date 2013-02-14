@@ -1,6 +1,6 @@
 Permissionlist for private modpack:
 * AdvancedMachines by Atomicstryker - __Permission pending__
-* AdvancedSolarPanels by SeNtiMeL - Need Explicit permissions
+* AdvancedSolarPanels by SeNtiMeL - __Permission pending__
 * Advanced Power System by dAkshEN3 - __http://buildcraftaps.wikispaces.com/Permissions__
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
 * BiblioCraft by Nuchaz - https://gist.github.com/Sp0nge/6eec444db453ac25ab8a - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
