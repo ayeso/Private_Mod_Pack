@@ -1,6 +1,6 @@
 Permissionlist for private modpack:
 * AdvancedMachines by Atomicstryker - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
-* AdvancedSolarPanels by SeNtiMeL - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291
+* AdvancedSolarPanels by SeNtiMeL - Need Explicit permissions
 * Advanced Power System by dAkshEN3 - __http://buildcraftaps.wikispaces.com/Permissions__
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
 * BiblioCraft by Nuchaz - https://gist.github.com/Sp0nge/6eec444db453ac25ab8a - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
@@ -39,15 +39,15 @@ Permissionlist for private modpack:
 * Obsidiplates Myrathi - http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43098
 * Petroleum Generator by DrCeph  - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=8385
 * PluginForForestry2 by denoflions -__Distributed under "open license"__ : http://www.minecraftforum.net/topic/1253666-147forgeplugins-for-forestry-2-wiki-now-updated/
-* Railcraft by CovertJaguar	- __Spreadsheet__ http://railcraft.wikispaces.com/
+* Railcraft by CovertJaguar	- Needs to be private whitelist or password protected so only server users access (FTB client might be fine.)
 * REI Minimap by ReiFNSK - __N/A__
-* Redpower 2.0pre6
+* Redpower 2.0pre6 - REALLY IFFY Refers to whitelisted servers and closed servers.
 * Runic Dust by billythegoat101 - __Permissiom pending__
 * Season mod by The_WeatherPony - __Mod removed from pack__
 * SmartMoving by Divisor - https://gist.github.com/Sp0nge/3295b48eeeb14d08ed88 - http://www.minecraftforum.net/topic/361430-147smp-smart-moving/
 * StargateTech by LordFokas given __13.02.2013 15:42 (GMT+1 on his IRC-channel)__ - https://gist.github.com/Sp0nge/8c468d5ecc838710e41a
 * SteveCarts by Vswe - Usage granted due to website - http://stevescarts2.wikispaces.com/
-* Thaumcraft 3 by Azanor	- __Spreadsheet__ http://www.minecraftforum.net/topic/1585216-thaumcraft-303-updated-122013/
+* Thaumcraft 3 by Azanor	- Exception for this rule are private server modpacks that won't be publically available.
 * Thaumic Bees 
 * ThermalExpansion by King Lemming - Usage not prohibited - http://thermalexpansion.wikispaces.com/License
 * The Twilight Forest by Benimatic	- __Spreadsheet__ http://twilightforest.wikispaces.com/
