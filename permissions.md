@@ -9,8 +9,8 @@ Permissionlist for private modpack:
 * Chargepads by Myrathi - http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43098
 * Chest Transporter - "You can use the mod in your private mod pack." - http://www.minecraftforum.net/topic/506109-147-cubex2s-mods-multi-page-chest-updated/
 * ComboArmors by UnixRano - https://gist.github.com/Sp0nge/c6c77b64119b2f64f45e - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8861
-* Code Chicken Core
-* Enderstorage by ChickenBones - __N/A__
+* Code Chicken chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
+* Enderstorage by chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
 * Essentia Everything by Qwertygiy - __Allowed to be used in any modpack__ - http://www.minecraftforum.net/topic/1666956-146-147thaumcraft3essentia-everything-232b-keybored-industries-tc3-addons/
 * Extrabees by Binnie - __N/A__
 * ExtraBiomesXL by ScottKillen and MisterFiber  - __Spreadsheet__ http://www.minecraftforum.net/topic/1090288-extrabiomesxl-390/
