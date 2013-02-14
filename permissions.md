@@ -24,7 +24,7 @@ Permissionlist for private modpack:
 * IndustrialCraft2 by Alblaka - http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
 * IC2NuclearControl by Shedar  - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
-* Inventory Tweaks 
+* Inventory Tweaks by jimeowan - __Feel free to use__ - http://www.minecraftforum.net/topic/323444-147-inventory-tweaks-150-jan-17/
 * IronChests by cpw	- __Spreadsheet__ http://www.minecraftforum.net/topic/981855-147-13w02b-forge-universal-ironchests-50-obsidian-chests/
 * Jammy Furniture by Jammy780 - https://gist.github.com/Sp0nge/d567518f9f0083014f27 - http://www.minecraftforum.net/topic/1098808-v41-147-forge-smp-jammy-furniture-mod/
 * Millenare by Kinniken - https://gist.github.com/Sp0nge/f006e4bb81f903889ea2 - http://www.millenaire.org/
