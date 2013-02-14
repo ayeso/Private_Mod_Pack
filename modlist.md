@@ -18,6 +18,7 @@ Private FTB Mod Pack for FTB-CRAFT and GOML
 * ExtraBiomesXL	__Current:__ 3.9.0 - __Latest:__ 3.9.0 - https://github.com/ayeso/Private_Mod_Pack/wiki/ExtraBiomesXL
 * Factorization	__Current:__ 0.7.10 - __Latest:__ 0.7.10 - https://github.com/ayeso/Private_Mod_Pack/wiki/Factorization
 * Forestry	__Current:__ 2.0.0.9 - __Latest:__ 2.0.0.9 - https://github.com/ayeso/Private_Mod_Pack/wiki/Forestry
+* Forge  __Current:__ 6.6.1.524 - __Latest:__ 6.6.1.524 - https://github.com/ayeso/Private_Mod_Pack/wiki/Forestry
 * Gravitation Suite	__Current:__ 1.6  - __Latest:__ 1.6  - https://github.com/ayeso/Private_Mod_Pack/wiki/Gravitation_Suite	
 * GregTech Mod __Current:__ 2.78e  - __Latest:__ 2.78e  - https://github.com/ayeso/Private_Mod_Pack/wiki/GregTech
 * Harvest Craft	__Current:__ 1.03  - __Latest:__ 1.03  - https://github.com/ayeso/Private_Mod_Pack/wiki/Harvest_Craft	
