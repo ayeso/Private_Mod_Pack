@@ -42,6 +42,7 @@ Mods:
 * Runic Dust __Author:__ billythegoat101 - https://github.com/ayeso/Private_Mod_Pack/wiki/Runic
 * Season Mod __Author:__ The_WeatherPony - https://github.com/ayeso/Private_Mod_Pack/wiki/Season
 * Smart Moving __Author:__ Divisor - https://github.com/ayeso/Private_Mod_Pack/wiki/Smart_Moving
+* StarGateTech __Author:__ LordFokas - https://github.com/ayeso/Private_Mod_Pack/wiki/StarGateTech
 * StevesCarts __Author:__ Vswe - https://github.com/ayeso/Private_Mod_Pack/wiki/StevesCarts
 * Thaumcraft __Author:__ Azanor - https://github.com/ayeso/Private_Mod_Pack/wiki/Thaumcraft
 * Thaumic Bees	__Author:__ MysteriousAges - https://github.com/ayeso/Private_Mod_Pack/wiki/Thaumic_Bees
