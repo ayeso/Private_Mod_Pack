@@ -1,0 +1,82 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - modifyworld.login
+    - mytown.ecmd.reply
+    - mytown.ecmd.msg
+    - mytown.ecmd.online
+    - mytown.ecmd.spawn
+    - -mytown.chat.allowcaps
+    - -modifyworld.enter.7
+    - -mytown.cmd.spawn.other
+    - mytown.mayor.blocks.(4)
+    - modifyworld.*
+    - mytown.cmd(|.*)
+    - mytown.chat.*
+    prefix: $b[Noob]$f
+    worlds:
+      '-1':
+    permissions:
+    - -mytown.cmd.claim
+  members:
+    inheritance:
+    - noobies
+    permissions:
+    - modifyworld.enter.7
+    - mytown.mayor.blocks.(4)
+    - mytown.resident.blocksmulti.(4)
+    - mytown.chat.allowcaps
+    prefix: $9[Member]$f
+  donors:
+    inheritance:
+    - members
+    permissions:
+    - mytown.cmd.spawn.*
+    - mytown.mayor.blocks.(8)
+    - mytown.adm.bypass.teleportwait
+    - mytown.resident.blocksmulti.(8)
+    prefix: $e$l[Donor]$f
+  golddonors:
+    inheritance:
+    - donors
+    permissions:
+    - mytown.cmd.spawn.*
+    - mytown.mayor.blocks.(16)
+    - mytown.adm.bypass.teleportwait
+    - mytown.resident.blocksmulti.(16)
+    prefix: $6$l[Donor]$f
+  moderators:
+    inheritance:
+    - donors
+    permissions:
+    - mytown.com.spawn.other
+    - mytown.adm.bypass.teleportwait
+    - mytown.chat.allowcaps
+    prefix: $1[MOD]$f
+  admin:
+    inheritance:
+    - moderators
+    permissions:
+    - mytown.*
+    - modifyworld.*
+    - permissions.*
+    - aperf.*
+    prefix: $a[ADMIN]$f
+    worlds:
+      '-1':
+        prefix: $c[ADMIN FROM HELL]$f
+      '7':
+        prefix: $d[ADMIN FROM PIXIE LAND]$f
+  fakeadmin:
+    inheritance:
+    - moderators
+    permissions:
+    - mytown.adm.cmd.wrk
+    - permissions.*
+    prefix: $a[ADMIN]$f
+    worlds:
+      '-1':
+        prefix: $c[ADMIN FROM HELL]$f
+      '7':
+        prefix: $d[ADMIN FROM PIXIE LAND]$f
