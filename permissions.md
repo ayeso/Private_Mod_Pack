@@ -40,7 +40,7 @@ Permissionlist for private modpack:
 * Petroleum Generator by DrCeph  - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=8385
 * PluginForForestry2 by denoflions -__Distributed under "open license"__ : http://www.minecraftforum.net/topic/1253666-147forgeplugins-for-forestry-2-wiki-now-updated/
 * Railcraft by CovertJaguar	- Needs to be private whitelist or password protected so only server users access (FTB client might be fine.)
-* REI Minimap by ReiFNSK - __N/A__
+* REI Minimap by ReiFNSK - __Permission Pending__
 * Redpower 2.0pre6 - REALLY IFFY Refers to whitelisted servers and closed servers.
 * Runic Dust by billythegoat101 - __Permissiom pending__
 * Season mod by The_WeatherPony - __Mod removed from pack__
