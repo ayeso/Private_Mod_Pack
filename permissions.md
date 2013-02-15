@@ -1,5 +1,5 @@
 Permissionlist for private modpack:
-* AdvancedMachines by Atomicstryker - __Permission pending__
+* AdvancedMachines by Atomicstryker - https://gist.github.com/Sp0nge/87152aaac270b7754791 - http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
 * AdvancedSolarPanels by SeNtiMeL - __Permission pending__
 * Advanced Power System by dAkshEN3 - __http://buildcraftaps.wikispaces.com/Permissions__
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
