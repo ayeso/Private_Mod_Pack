@@ -24,6 +24,7 @@ Permissionlist for private modpack:
 * HarvestCraft (Pam's Mods) by MatrexsVigil - Any non-profit modpack can use without permission as long as credit is provided - http://www.minecraftforum.net/topic/402069-147forgesmppams-mods-feb-14th-fixed-salt-null-pointer-error-14-new-mods/
 * IndustrialCraft2 by Alblaka - http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
 * IC2NuclearControl by Shedar  - __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
+* Immibis TubeStuff with Immibis core by immibis - Free of usage - http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5220-core-5240-da-5218-infinitubes-5201-liquid-xp-5203-microblocks-5203/
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
 * Inventory Tweaks by jimeowan - __Feel free to use__ - http://www.minecraftforum.net/topic/323444-147-inventory-tweaks-150-jan-17/
 * IronChests by cpw	- __Spreadsheet__ http://www.minecraftforum.net/topic/981855-147-13w02b-forge-universal-ironchests-50-obsidian-chests/
