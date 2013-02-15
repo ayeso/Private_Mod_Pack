@@ -12,7 +12,7 @@ Permissionlist for private modpack:
 * Code Chicken chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
 * Enderstorage by chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
 * Essentia Everything by Qwertygiy - __Allowed to be used in any modpack__ - http://www.minecraftforum.net/topic/1666956-146-147thaumcraft3essentia-everything-232b-keybored-industries-tc3-addons/
-* Extrabees by Binnie - __N/A__
+* Extrabees by Binnie - Permitted if Forestry is permitted - http://www.minecraftforum.net/topic/1324321-145sspsmpforestry-extra-bees-141x-dev-build-revolutionize-your-bee-breeding/
 * ExtraBiomesXL by ScottKillen and MisterFiber  - __Spreadsheet__ http://www.minecraftforum.net/topic/1090288-extrabiomesxl-390/
 * ComputerCraft by Dan200	- __Spreadsheet__ http://www.computercraft.info/
 * Factorization by neptunepink - __Permission pending__
