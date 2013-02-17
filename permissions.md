@@ -48,8 +48,8 @@ Permissionlist for private modpack:
 * SmartMoving by Divisor - https://gist.github.com/Sp0nge/3295b48eeeb14d08ed88 - http://www.minecraftforum.net/topic/361430-147smp-smart-moving/
 * StargateTech by LordFokas given __13.02.2013 15:42 (GMT+1 on his IRC-channel)__ - https://gist.github.com/Sp0nge/8c468d5ecc838710e41a
 * SteveCarts by Vswe - Usage granted due to website - http://stevescarts2.wikispaces.com/
-* Thaumcraft 3 by Azanor	- __Permission pending__
-* Thaumic Bees - __N/A__
+* Thaumcraft 3 by Azanor	- __Distributed under license of private modpack__ - http://www.minecraftforum.net/topic/1585216-thaumcraft-303-updated-122013/
+* Thaumic Bees by MysteriousAges - __Can be used in any modpack ThaumCraft is allowed to be used in__ - http://www.minecraftforum.net/topic/1627856-thaumicbees-crossover-mod-for-forestry-thaumcraft-updated-feb-16/
 * ThermalExpansion by King Lemming - Usage not prohibited - http://thermalexpansion.wikispaces.com/License
 * The Elegant Punt by Awger - __Permission given in PM, picture to follow. However, unstated yet, everyone has permission to use this mod as long its not made money off__ - http://www.minecraftforum.net/topic/1599100-wip-145-the-elegant-punt-sailboat/
 * The Twilight Forest by Benimatic	- __Spreadsheet__ http://twilightforest.wikispaces.com/
