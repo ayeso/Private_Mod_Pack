@@ -45,7 +45,6 @@ Permissionlist for private modpack:
 * REI Minimap by ReiFNSK - __Free to be used in modpack due link and credits given__ - http://www.minecraftforum.net/topic/482147-147-jan10-reis-minimap-v32-06/
 * Redpower 2.0pre6 by Elooram - __Can be used in private modpacks__ - http://www.minecraftforum.net/topic/365357-125-eloraams-mods-redpower-2-prerelease-5b2/
 * Runic Dust by billythegoat101 - __Permission as stated in FTB thread__ - http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/page-2#post-62791
-* Season mod by The_WeatherPony - __Mod removed from pack__
 * SmartMoving by Divisor - https://gist.github.com/Sp0nge/3295b48eeeb14d08ed88 - http://www.minecraftforum.net/topic/361430-147smp-smart-moving/
 * StargateTech by LordFokas given __13.02.2013 15:42 (GMT+1 on his IRC-channel)__ - https://gist.github.com/Sp0nge/8c468d5ecc838710e41a
 * SteveCarts by Vswe - Usage granted due to website - http://stevescarts2.wikispaces.com/
