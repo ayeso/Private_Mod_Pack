@@ -16,7 +16,7 @@ Permissionlist for private modpack:
 * Extrabees by Binnie - Permitted if Forestry is permitted - http://www.minecraftforum.net/topic/1324321-145sspsmpforestry-extra-bees-141x-dev-build-revolutionize-your-bee-breeding/
 * ExtraBiomesXL by ScottKillen and MisterFiber  - __Spreadsheet__ http://www.minecraftforum.net/topic/1090288-extrabiomesxl-390/
 * ComputerCraft by Dan200	- __Spreadsheet__ http://www.computercraft.info/
-* Factorization by neptunepink - __Permission pending__
+* Factorization by neptunepink - __This mod may be used in modpacks under the following conditions:__ - http://www.minecraftforum.net/topic/1351802-146-factorization-0710/
 * Forestry by	SirSengir	- __Spreadsheet__ http://forestry.sengir.net/wiki.new/doku.php
 * Forge/FML by LexManos, cpw, ...	- __Spreadsheet__ http://minecraftforge.net
 * ForgeIRC by ShadwDrgn	- __Spreadsheet__ http://www.minecraftforum.net/topic/1475847-146-forgeirc-v1014-soul-shards-v126-and-recipe-remover-v11-updated-122013/
