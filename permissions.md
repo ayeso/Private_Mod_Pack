@@ -34,7 +34,7 @@ Permissionlist for private modpack:
 * Mekanism by aidancbrady - Under open license due credits made - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8866
 * MFFS by Thunderdark - Modpacks for the FTB launcher have always permission you not need PM me - http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292
 * Modular Powersuits by MachineMuse - __Free to use license__ : http://www.machinemuse.net/modpacks.php
-* MouseTweaks by YaLTeR97 - https://gist.github.com/Sp0nge/27bf8925f339b6bf200c - http://www.minecraftforum.net/topic/1518185-147-146-sspsmp-mouse-tweaks-beta-4/
+* MouseTweaks by YaLTeR97 - http://www.raceinfo.no/temp/mtweaks.jpg - http://www.minecraftforum.net/topic/1518185-147-146-sspsmp-mouse-tweaks-beta-4/
 * Mo'Creatures by DrZhark - __Permission given on PM on MineCraft forums, screenshot will follow__ - http://www.minecraftforum.net/topic/81771-147-mo-creatures-v451-with-elephants-mammoths-komodo-dragons-more-ostriches-better-jellyfish-more-fairy-horses/
 * NEI by chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
 * NEIPlugins by mistaqur	- __Spreadsheet__ https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
