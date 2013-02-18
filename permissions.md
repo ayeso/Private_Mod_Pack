@@ -3,7 +3,7 @@ Permissionlist for private modpack:
 * AdvancedSolarPanels by SeNtiMeL - All private modpacks can use this mod in theyre pack - http://forum.industrial-craft.net/index.php?page=Thread&postID=97325#post97325
 * Advanced Power System by dAkshEN3 - __http://buildcraftaps.wikispaces.com/Permissions__
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
-* BiblioCraft by Nuchaz - https://gist.github.com/Sp0nge/6eec444db453ac25ab8a - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
+* BiblioCraft by Nuchaz - http://www.raceinfo.no/temp/biblio.jpg - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
 * BrainTech Author by "I don't now" - http://www.raceinfo.no/temp/badp-perm.jpg
 * Builcraft by SirSengir - http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43242
 * Chargepads by Myrathi - http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43098
