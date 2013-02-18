@@ -1,0 +1,118 @@
+# Configuration file
+# Generated on 2/18/13 11:27 AM
+
+####################
+# block
+####################
+
+block {
+    I:"Held Item Block"=1472
+    I:"Lava Tank"=1473
+    I:"Liquid Aluminum Flowing"=1486
+    I:"Liquid Aluminum Still"=1487
+    I:"Liquid Alumite Flowing"=1498
+    I:"Liquid Alumite Still"=1499
+    I:"Liquid Ardite Flowing"=1490
+    I:"Liquid Ardite Still"=1491
+    I:"Liquid Brass Flowing"=1494
+    I:"Liquid Brass Still"=1495
+    I:"Liquid Bronze Flowing"=1492
+    I:"Liquid Bronze Still"=1493
+    I:"Liquid Cobalt Flowing"=1488
+    I:"Liquid Cobalt Still"=1489
+    I:"Liquid Copper Flowing"=1482
+    I:"Liquid Copper Still"=1483
+    I:"Liquid Gold Flowing"=1480
+    I:"Liquid Gold Still"=1481
+    I:"Liquid Iron Flowing"=1478
+    I:"Liquid Iron Still"=1479
+    I:"Liquid Manyullyn Flowing"=1496
+    I:"Liquid Manyullyn Still"=1497
+    I:"Liquid Obsidian Flowing"=4095
+    I:"Liquid Obsidian Still"=4094
+    I:"Liquid Tin Flowing"=1484
+    I:"Liquid Tin Still"=1485
+    I:"Seared Brick"=1477
+    I:Smeltery=1474
+    I:"Special Soil"=1476
+    I:"Wood Tool Station"=1471
+}
+
+
+####################
+# patterns and misc
+####################
+
+"patterns and misc" {
+    I:"Blank Patterns"=14019
+    I:Materials=14020
+    I:"Tinker's Manual"=14018
+    I:"Tool Rod"=14021
+    I:"Tool Shard"=14022
+    I:"Wood Pattern"=14023
+}
+
+
+####################
+# tool parts
+####################
+
+"tool parts" {
+    I:"Axe Head"=14028
+    I:Crossbar=14033
+    I:"Frypan Head"=14035
+    I:"Hoe Head"=14029
+    I:"Large Guard"=14031
+    I:"Lumber Axe Head"=14037
+    I:"Medium Guard"=14032
+    I:"Pickaxe Head"=14026
+    I:"Shovel Head"=14027
+    I:"Sign Head"=14036
+    I:"Sword Blade"=14030
+    I:"Tool Binding"=14034
+}
+
+
+####################
+# tools
+####################
+
+tools {
+    I:Axe=14053
+    I:Battlesign=14059
+    I:Broadsword=14055
+    I:"Frying Pan"=14058
+    I:Hoe=14054
+    I:Longbow=14062
+    I:Longsword=14056
+    I:"Lumber Axe"=14061
+    I:Mattock=14060
+    I:Pickaxe=14051
+    I:Rapier=14057
+    I:Shovel=14052
+}
+
+
+####################
+# worldgen
+####################
+
+worldgen {
+    I:"Aluminum Density"=9
+    I:"Aluminum Height"=0
+    I:"Aluminum Range"=64
+    I:"Copper Density"=8
+    I:"Copper Height"=20
+    I:"Copper Range"=40
+    B:"Generate Aluminum"=true
+    B:"Generate Ardite"=true
+    B:"Generate Cobalt"=true
+    B:"Generate Copper"=false
+    B:"Generate Tin"=false
+    I:"Nether Ores Density"=8
+    I:"Tin Density"=8
+    I:"Tin Height"=0
+    I:"Tin Range"=40
+}
+
+
