@@ -33,6 +33,7 @@ Mods:
 * Iron Chests 
 * Inventory Tweaks 
 * Jammy Furniture
+* McCapes (mod made by us, listed as coremod)
 * Mekanism 
 * MFFS 
 * Millenare
@@ -68,6 +69,7 @@ https://github.com/ayeso/Private_Mod_Pack/blob/master/permissions.md
  
 Description:
 This modpack is a extended version of Mindcrack with addons such as Mo Creatures and Millenare.
+McCapes is made by Alphaest (one of our devs) for fixing usage of capes due to a class that Forge overrides.
 
 Minecraft Version:
 1.4.7
