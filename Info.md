@@ -1,5 +1,8 @@
 Mod Pack Name: Mindcrack Extended
 
+MultiMC download: https://dl.dropbox.com/u/101191379/extended.rar
+Picturedownload: https://dl.dropbox.com/u/101191379/4.png and https://dl.dropbox.com/u/101191379/3.png
+
 Mods:
 
 * Advanced Machines 
