@@ -61,7 +61,7 @@ Mods:
 * Wireless Redstone CBE 
 
 Private Pack Code:
-example
+<random key is fine>
 
 Permissions:
 https://github.com/ayeso/Private_Mod_Pack/blob/master/permissions.md
