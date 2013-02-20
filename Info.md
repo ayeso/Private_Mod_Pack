@@ -60,7 +60,7 @@ Mods:
 * Valve Pipes (and more!) 
 * Wireless Redstone CBE 
 
-Private Pack Code:
+Private Pack Code: extended
 <random key is fine>
 
 Permissions:
