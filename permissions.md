@@ -29,7 +29,7 @@ Permissionlist for private modpack:
 * InfiCraft by mDiyo - __Open license for any usage__ - http://www.minecraftforum.net/topic/521617-147-inficraft-updated-201328/
 * Inventory Tweaks by jimeowan - __Feel free to use__ - http://www.minecraftforum.net/topic/323444-147-inventory-tweaks-150-jan-17/
 * IronChests by cpw	- __Spreadsheet__ http://www.minecraftforum.net/topic/981855-147-13w02b-forge-universal-ironchests-50-obsidian-chests/
-* Jammy Furniture by Jammy780 - https://gist.github.com/Sp0nge/d567518f9f0083014f27 - http://www.minecraftforum.net/topic/1098808-v41-147-forge-smp-jammy-furniture-mod/
+* Jammy Furniture by Jammy780 - http://www.raceinfo.no/temp/jammy.jpg - http://www.minecraftforum.net/topic/1098808-v41-147-forge-smp-jammy-furniture-mod/
 * Millenare by Kinniken - https://gist.github.com/Sp0nge/f006e4bb81f903889ea2 - http://www.millenaire.org/
 * Mekanism by aidancbrady - Under open license due credits made - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8866
 * MFFS by Thunderdark - Modpacks for the FTB launcher have always permission you not need PM me - http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292
