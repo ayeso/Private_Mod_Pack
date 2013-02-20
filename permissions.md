@@ -52,7 +52,7 @@ Permissionlist for private modpack:
 * Thaumcraft 3 by Azanor	- __Distributed under license of private modpack__ - http://www.minecraftforum.net/topic/1585216-thaumcraft-303-updated-122013/
 * Thaumic Bees by MysteriousAges - __Can be used in any modpack ThaumCraft is allowed to be used in__ - http://www.minecraftforum.net/topic/1627856-thaumicbees-crossover-mod-for-forestry-thaumcraft-updated-feb-16/
 * ThermalExpansion by King Lemming - Usage not prohibited - http://thermalexpansion.wikispaces.com/License
-* The Elegant Punt by Awger - __Permission given in PM, picture to follow. However, unstated yet, everyone has permission to use this mod as long its not made money off__ - http://www.minecraftforum.net/topic/1599100-wip-145-the-elegant-punt-sailboat/
+* The Elegant Punt by Awger - http://www.raceinfo.no/temp/elegant.jpg - http://www.minecraftforum.net/topic/1599100-wip-145-the-elegant-punt-sailboat/
 * The Twilight Forest by Benimatic	- __Spreadsheet__ http://twilightforest.wikispaces.com/
 * Valve Pipes by denoflions - __Distributed under his "free to use lincense" - http://www.minecraftforum.net/topic/1536511-147buildcraft-valve-pipe-and-more-131/
 * Wireless Redstone CBE by chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
