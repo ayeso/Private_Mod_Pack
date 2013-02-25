@@ -1,6 +1,6 @@
 Mod Pack Name: Mindcrack Extended
 
-MultiMC download: https://www.dropbox.com/s/q24wt75brrjynwi/ExtendedV6.zip
+MultiMC download: https://www.dropbox.com/s/nbpj2kglphw9y7a/ExtendedV7.zip
 
 Picturedownload: https://dl.dropbox.com/u/101191379/4.png and https://dl.dropbox.com/u/101191379/3.png
 
