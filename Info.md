@@ -6,7 +6,7 @@ JVM line to use (pack is REAL clientheavy):  -XX:+CMSClassUnloadingEnabled -XX:M
 
 Picturedownload: https://dl.dropbox.com/u/101191379/4.png and https://dl.dropbox.com/u/101191379/3.png
 
-* Download MultiMC from http://adf.ly/606771/mmc4win
+* Download MultiMC from http://adf.ly/606771/mmc4win  -- adfly link belongs to MultiMC. If you want to verify their page is located here http://forkk.net/MultiMC4/
 * Make a folder somewhere for it.
 * Place the file you downloaded in the folder.
 * Double click the file to create the base folder.
