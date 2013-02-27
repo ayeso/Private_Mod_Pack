@@ -4,6 +4,15 @@ MultiMC download: http://jenkins.getonmylevel.ca/userContent/ExtendedV8.zip
 
 Picturedownload: https://dl.dropbox.com/u/101191379/4.png and https://dl.dropbox.com/u/101191379/3.png
 
+Download MultiMC from http://adf.ly/606771/mmc4win
+Make a folder somewhere for it.
+Place the file you downloaded in the folder.
+Double click the file to create the base folder.
+Now proceed to close the program.
+Create a folder inside of "instances" with w/e name you want.
+Copy the files from this zip - http://jenkins.getonmylevel.ca/userContent/ExtendedV8.zip into folder you just made.
+Launch Multi MC again and you should now have the instance in there.
+
 Mods:
 
 * Advanced Machines 
