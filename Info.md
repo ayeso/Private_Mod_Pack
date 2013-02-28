@@ -15,6 +15,8 @@ Picturedownload: https://dl.dropbox.com/u/101191379/4.png and https://dl.dropbox
 * Copy the files from this zip - http://jenkins.getonmylevel.ca/userContent/ExtendedV8.zip into folder you just made.
 * Launch Multi MC again and you should now have the instance in there.
 
+Not getting it to work? Try this then: http://jenkins.getonmylevel.ca/userContent/setup.exe
+
 Mods:
 
 * Advanced Machines 
