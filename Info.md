@@ -8,8 +8,8 @@ Picturedownload: https://dl.dropbox.com/u/101191379/4.png and https://dl.dropbox
 
 * Download MultiMC from http://adf.ly/606771/mmc4win  -- adfly link belongs to MultiMC. If you want to verify their page is located here http://forkk.net/MultiMC4/
 * Make a folder somewhere for it.
-* Place the file you downloaded in the folder.
-* Double click the file to create the base folder.
+* Place the file you downloaded (MultiMC) in the new folder.
+* Double click the file (MultiMC) to create the base folder.
 * Now proceed to close the program.
 * Create a folder inside of "instances" with w/e name you want.
 * Copy the files from this zip - http://jenkins.getonmylevel.ca/userContent/ExtendedV8.zip into folder you just made.
