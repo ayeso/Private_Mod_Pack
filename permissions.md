@@ -30,6 +30,7 @@ Permissionlist for private modpack:
 * Inventory Tweaks by jimeowan - __Feel free to use__ - http://www.minecraftforum.net/topic/323444-147-inventory-tweaks-150-jan-17/
 * IronChests by cpw	- __Spreadsheet__ http://www.minecraftforum.net/topic/981855-147-13w02b-forge-universal-ironchests-50-obsidian-chests/
 * Jammy Furniture by Jammy780 - http://www.raceinfo.no/temp/jammy.jpg - http://www.minecraftforum.net/topic/1098808-v41-147-forge-smp-jammy-furniture-mod/
+* Liquid Metals by fred4106 - http://www.raceinfo.no/temp/liquidmetals.jpg - http://www.minecraftforum.net/topic/1614036-1467-bc-addon-liquid-metals-0116/
 * Millenare by Kinniken - http://www.raceinfo.no/temp/millenaire.jpg - http://www.millenaire.org/
 * Mekanism by aidancbrady - Under open license due credits made - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8866
 * MFFS by Thunderdark - Modpacks for the FTB launcher have always permission you not need PM me - http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292
