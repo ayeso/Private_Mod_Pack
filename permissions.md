@@ -10,6 +10,7 @@ Permissionlist for private modpack:
 * Chest Transporter - "You can use the mod in your private mod pack." - http://www.minecraftforum.net/topic/506109-147-cubex2s-mods-multi-page-chest-updated/
 * ComboArmors by UnixRano - http://www.raceinfo.no/temp/comboarmour.jpg - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8861
 * Code Chicken chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
+* CustomMobspawner by DrZark - http://www.raceinfo.no/temp/mobspawner.jpg - http://www.minecraftforum.net/topic/81771-147-mo-creatures-v451-with-elephants-mammoths-komodo-dragons-more-ostriches-better-jellyfish-more-fairy-horses/
 * Electric Expansion by Alex_hawks - __can be included as long all other mods in pack have permission__ - http://www.universalelectricity.com/?m=Electric%20Expansion&p=copyright
 * Enderstorage by chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
 * Essentia Everything by Qwertygiy - __Allowed to be used in any modpack__ - http://www.minecraftforum.net/topic/1666956-146-147thaumcraft3essentia-everything-232b-keybored-industries-tc3-addons/
