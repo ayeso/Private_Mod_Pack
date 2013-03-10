@@ -1,7 +1,7 @@
 Mod Pack Name: Mindcrack Extended
 
 MultiMC instance download: http://jenkins.getonmylevel.ca:8080/userContent/ExtendedV8.zip  
-V9 beta can be found here: https://dl.dropbox.com/u/101191379/ExtendedV9.zip
+V9.1 beta can be found here: https://dl.dropbox.com/u/101191379/v9.1.rar
 
 JVM line to use (pack is REAL clientheavy):  -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=128m
 
