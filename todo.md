@@ -1,4 +1,2 @@
-* Complete permissions
-* Get graphics
-* Compile clientpack
-* Submit
+- forums
+- adverticing
