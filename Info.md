@@ -1,7 +1,7 @@
 Mod Pack Name: Mindcrack Extended
 
-MultiMC instance download: https://dl.dropbox.com/u/101191379/v9.3.zip  
-Removed mods added in v9.1. v9.2 is the same as v8, just with updated mods  
+MultiMC instance download: https://dl.dropbox.com/u/101191379/v9.3.zip   
+ 
 IRC: ftb-craft @ espernet
 Current private modpackcode: OJ3TGHBT1O
   
