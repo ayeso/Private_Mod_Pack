@@ -21,6 +21,7 @@ Permissionlist for private modpack:
 * Forestry by	SirSengir	- __Spreadsheet__ http://forestry.sengir.net/wiki.new/doku.php
 * Forge/FML by LexManos, cpw, ...	- __Spreadsheet__ http://minecraftforge.net
 * ForgeIRC by ShadwDrgn	- __Spreadsheet__ http://www.minecraftforum.net/topic/1475847-146-forgeirc-v1014-soul-shards-v126-and-recipe-remover-v11-updated-122013/
+* FriendsOverlay by Michi302 - http://www.raceinfo.no/temp/friendmod.jpg - http://www.minecraftforum.net/topic/1438531-151-friendsoverlay-311/
 * GraviSuite by SeNtiMeL	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
 * GregTechMod by GregoriusT	- __Spreadsheet__ http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156
 * guiAPU by ShaRose - <ShaRose> the FTB guys know I just say sure to every request anyways, so 'sure' - http://www.minecraftforum.net/topic/612536-146-guiapi-an-advanced-gui-toolkit/
