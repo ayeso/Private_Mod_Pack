@@ -5,8 +5,10 @@ MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/V10.1.1
 IRC: ftb-craft @ espernet
 Current private modpackcode: OJ3TGHBT1O
   
-Older versions:
-* v10.1: https://dl.dropboxusercontent.com/u/101191379/V10.1.rar
+Older versions for 1.5.1:
+* v10.1: https://dl.dropboxusercontent.com/u/101191379/V10.1.rar 
+ 
+Older versions for 1.4.7
 * v9.3: https://dl.dropbox.com/u/101191379/v9.3.zip 
 * v9.2: https://dl.dropbox.com/u/101191379/v9.2.zip  
 * v9.1: https://dl.dropbox.com/u/101191379/v9.1.rar
