@@ -1,11 +1,12 @@
 Mod Pack Name: Extended
 
-MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/V10.1.rar  
+MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/V10.1.1.rar  
  
 IRC: ftb-craft @ espernet
 Current private modpackcode: OJ3TGHBT1O
   
 Older versions:
+* v10.1: https://dl.dropboxusercontent.com/u/101191379/V10.1.rar
 * v9.3: https://dl.dropbox.com/u/101191379/v9.3.zip 
 * v9.2: https://dl.dropbox.com/u/101191379/v9.2.zip  
 * v9.1: https://dl.dropbox.com/u/101191379/v9.1.rar
