@@ -1,6 +1,10 @@
 Mod Pack Name: Extended   
-Minecraft version: 1.5.1
+Minecraft version: 1.4.7  
+  
+MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/v9.4.zip  
 
+
+Beta 1.5.1 (not for FTB in its current state)
 MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/V10.1.1.rar  
  
 IRC: ftb-craft @ espernet
