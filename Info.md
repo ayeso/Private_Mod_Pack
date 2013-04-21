@@ -1,4 +1,5 @@
-Mod Pack Name: Extended
+Mod Pack Name: Extended 
+Minecraft version: 1.5.1
 
 MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/V10.1.1.rar  
  
