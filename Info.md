@@ -5,12 +5,14 @@ MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/v9.4.zi
 
 
 Beta 1.5.1 (not for FTB in its current state)  
-MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/V10.2.0.zip  
+MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/V10.3.zip   
+
  
 IRC: ftb-craft @ espernet
 Current private modpackcode: OJ3TGHBT1O
   
 Older versions for 1.5.1:  
+* v10.2.0: https://dl.dropboxusercontent.com/u/101191379/V10.2.0.zip
 * v10.1.2: https://dl.dropboxusercontent.com/u/101191379/V10.1.2.1.zip 
 * v10.1.2: https://dl.dropboxusercontent.com/u/101191379/V10.1.2.zip  
 * v10.1.1: https://dl.dropboxusercontent.com/u/101191379/V10.1.1.rar  
