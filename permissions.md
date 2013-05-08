@@ -8,7 +8,7 @@ Permissionlist for private modpack:
 * Builcraft by SirSengir - __Public perms using FTB launcher__ http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43242
 * Chargepads by Myrathi - __Public perms__ http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43098
 * Chest Transporter - __Public perms__ - http://www.minecraftforum.net/topic/506109-147-cubex2s-mods-multi-page-chest-updated/
-* ComboArmors by UnixRano - http://www.raceinfo.no/temp/comboarmour.jpg - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8861
+* ComboArmors by UnixRano - __Public perms listed on forumpage__ http://www.raceinfo.no/temp/comboarmour.jpg - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8861
 * Code Chicken chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
 * CustomMobspawner by DrZark - http://www.raceinfo.no/temp/mobspawner.jpg - http://www.minecraftforum.net/topic/81771-147-mo-creatures-v451-with-elephants-mammoths-komodo-dragons-more-ostriches-better-jellyfish-more-fairy-horses/
 * Electric Expansion by Alex_hawks - __can be included as long all other mods in pack have permission__ - http://www.universalelectricity.com/?m=Electric%20Expansion&p=copyright
