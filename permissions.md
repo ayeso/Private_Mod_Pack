@@ -6,7 +6,7 @@ Permissionlist for private modpack:
 * BiblioCraft by Nuchaz - __Public perms pending__ http://www.raceinfo.no/temp/biblio.jpg - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
 * BrainTech Author by "I don't now" - __Mod not updated to 1.5.x__ http://www.raceinfo.no/temp/badp-perm.jpg
 * Builcraft by SirSengir - __Public perms using FTB launcher__ http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43242
-* Chargepads by Myrathi - http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43098
+* Chargepads by Myrathi - __Public perms__ http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43098
 * Chest Transporter - "You can use the mod in your private mod pack." - http://www.minecraftforum.net/topic/506109-147-cubex2s-mods-multi-page-chest-updated/
 * ComboArmors by UnixRano - http://www.raceinfo.no/temp/comboarmour.jpg - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8861
 * Code Chicken chinken_bones - include any of my mods in modpacks as long as you provide credit - http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
