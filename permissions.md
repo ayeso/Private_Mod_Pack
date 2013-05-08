@@ -1,5 +1,5 @@
 Permissionlist for private modpack:
-* AdvancedMachines by Atomicstryker -  http://www.raceinfo.no/temp/advancedmachines.jpg - http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
+* AdvancedMachines by Atomicstryker - __Public perms__  http://www.raceinfo.no/temp/advancedmachines.jpg - http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
 * AdvancedSolarPanels by SeNtiMeL - All private modpacks can use this mod in theyre pack - http://forum.industrial-craft.net/index.php?page=Thread&postID=97325#post97325
 * Advanced Power System by dAkshEN3 - __http://buildcraftaps.wikispaces.com/Permissions__
 * Applied Energistics by AlgorithmX2 - "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
