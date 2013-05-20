@@ -1,3 +1,18 @@
+V11.2
+* Highlands replaced EBXL
+* Added Extrautilities
+* Added Carboniferous
+* Added TwitchTV
+* Added ProjectBench
+* Added Lord of The Rings
+* Added Thaumic Bees
+* Added Thaumic Tinkerer
+* Added Tconstruct with Natura
+* Added FancyGUI
+* Added Audiotori
+* Removed misc mods, perms are however still in place, might readd at a later date
+
+
 V9.4 
 * Added FriendsOverlay
 
