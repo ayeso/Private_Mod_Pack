@@ -1,7 +1,9 @@
 Mod Pack Name: Extended   
-Minecraft version: 1.4.7  
   
-MultiMC instance download: https://dl.dropboxusercontent.com/u/101191379/v9.4.zip  
+MultiMC instance download:   
+  
+Minecraft 1.5.2  
+* v11.2: - https://dl.dropboxusercontent.com/u/101191379/v11.2.zip  
 
 
 Beta 1.5.1 (not for FTB in its current state)  
@@ -19,6 +21,7 @@ Older versions for 1.5.1:
 * v10.1: https://dl.dropboxusercontent.com/u/101191379/V10.1.rar 
  
 Older versions for 1.4.7  
+* v9.4: https://dl.dropboxusercontent.com/u/101191379/v9.4.zip
 * v9.3: https://dl.dropbox.com/u/101191379/v9.3.zip 
 * v9.2: https://dl.dropbox.com/u/101191379/v9.2.zip  
 * v9.1: https://dl.dropbox.com/u/101191379/v9.1.rar
@@ -48,6 +51,7 @@ Mods:
 * BiblioCraft 
 * BrainTech  
 * BuildCraft 
+* Carboniferous
 * Charge Pads 
 * Chest Transporter 
 * Code Chicken Core 
@@ -55,53 +59,45 @@ Mods:
 * Electric Expansion 
 * Enderstorage  
 * Essentia Everything 
-* Extra Bees 
-* ExtraBiomesXL  
+* Extra Bees  
 * Factorization
 * Forestry
 * Forge  
-* ForgeIRC 
 * Gravitation Suite
 * GregTech Mod 
-* Harvest Craft
+* Highlands
 * IC Addon: Combo Armors 
 * IC2 
 * IC2 NuclearControl 
 * Immibis TubeStuff 
-* InfiCraft 
 * Iron Chests 
 * Inventory Tweaks 
 * Jammy Furniture
-* McCapes (mod made by us, listed as coremod)
 * Mekanism 
 * MFFS 
 * Millenare
 * Mo'Creatures 
 * Modular Powersuits 
 * Mouse Tweaks 
+* Natura
 * NEI 
 * NEI Plugins 
 * Obsidiplates 
-* PetroGen 
 * Plugins for Forestry 2 
 * Railcraft 
-* Redpower 
 * Rei's minimap 
-* Runic Dust mod 
-* Season Mod 
+* Runic Dust mod  
 * Smart Moving 
 * StevesCarts 
-* StargateTech 
 * Thaumcraft 
 * Thaumic Bees
 * ThermalExpansion 
 * The Twilight Forest 
+* Tinkers Construct
 * Universal Electricity
-* Valve Pipes (and more!) 
-* Wireless Redstone CBE 
+* Valve Pipes (and more!)  
 
 Private Pack Code: extended
-<random key is fine>
 
 Permissions:
 https://github.com/ayeso/Private_Mod_Pack/blob/master/permissions.md
