@@ -1,3 +1,15 @@
+V11.3
+* Updated Carboniferous to 1.0.2a
+* Updated Applied Energestics to rv10_n
+* Updated Buildcraft to #183
+* Updated Electric Expansion to v2.2.1.49
+* Updated IndustrialCraft 2 to 1.115.327-lf
+* Updated Ironchest to 5.2.6.417
+* Updated MPS to 0.7.0-517
+* Added MPS addons
+* 
+
+
 V11.2
 * Highlands replaced EBXL
 * Added Extrautilities
