@@ -7,7 +7,9 @@ V11.3
 * Updated Ironchest to 5.2.6.417
 * Updated MPS to 0.7.0-517
 * Added MPS addons
-* 
+* Updated Natura to 2.1beta4
+* Updated SteveCarts to 2.0.0.a117
+* Updated Thaummcraft to 3.0.5c
 
 
 V11.2
