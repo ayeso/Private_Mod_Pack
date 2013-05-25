@@ -1,3 +1,7 @@
+V11.4
+* Updated IndustrialCraft 2 to 1.115.333-lf (due to a resinbug with furnaces)
+
+
 V11.3
 * Updated Carboniferous to 1.0.2a
 * Updated Applied Energestics to rv10_n
