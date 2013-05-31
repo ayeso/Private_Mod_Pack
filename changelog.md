@@ -1,3 +1,29 @@
+V11.5  
+* Forge updated to 7.8.0.716  
+* Buildcraft Updated to 1.5.2-jenkins-Buildcraft-204.204.jar  
+* Electric Expansion Updated to v2.3.0.51  
+* Forestry Updated to 2.2.4.3  
+* Added NEIPlugins-1.0.9.1.a.jar  
+* Extra-Bees Updated to 1.6-pre9.jar  
+* Gregtech Updated to 3.06d  
+* Immibis Core updated to 55.1.2  
+* Immibis Microblocks updated to 55.0.1  
+* Immibis Tubestuff updated to 55.0.2  
+* Iron Chest updated to 5.2.6.425  
+* Mekanism updated to 5.5.6.64  
+* Modular Powersuits updated to 0.7.0-531  
+* ModularPowersuitsAddons updated to 0.2.3-142  
+* Natura updated to 2.1 Beta 6  
+* Railcraft updated to 7.2.1.0  
+* Thaumcraft updated to 3.0.5e  
+* Thaumic Bees updated to 1.4.7c  
+* Thaumic Tinkerer updated to 1.0.5  
+* CoFHCore updated to 1.5.2.2  
+* Thermal Expansion updated to 2.4.3.0  
+* Twilight Forest updated to 1.18.1  
+* CodeChickenCore updatde to 0.8.6.10  
+* NEI updated to 1.5.2.18  
+
 V11.4
 * Updated IndustrialCraft 2 to 1.115.333-lf (due to a resinbug with furnaces)
 
