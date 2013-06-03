@@ -3,7 +3,7 @@ Mod Pack Name: Extended
 MultiMC instance download:   
   
 Minecraft 1.5.2 
-* v11.4: - https://dl.dropboxusercontent.com/u/101191379/v11.5.zip  
+* v11.5: - https://dl.dropboxusercontent.com/u/101191379/v11.5.zip  
 
 
 Beta 1.5.1 (not for FTB in its current state)  
@@ -14,7 +14,7 @@ IRC: ftb-craft @ espernet
 Current private modpackcode: OJ3TGHBT1O
  
 Older Verions for 1.5.2:  
-* v11.3: - https://dl.dropboxusercontent.com/u/101191379/v11.4.zip 
+* v11.4: - https://dl.dropboxusercontent.com/u/101191379/v11.4.zip 
 * v11.3: - https://dl.dropboxusercontent.com/u/101191379/v11.3.zip 
 * v11.2: - https://dl.dropboxusercontent.com/u/101191379/v11.2.zip 
  
