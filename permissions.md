@@ -9,7 +9,7 @@ Permissionlist for private modpack:
 * BiblioCraft by Nuchaz - __Public perms pending__ http://www.raceinfo.no/temp/biblio.jpg - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
 * BrainTech Author by "I don't now" - __Mod not updated to 1.5.x__ http://www.raceinfo.no/temp/badp-perm.jpg
 * Builcraft by SirSengir - __Public perms using FTB launcher__ http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43242
-* BuildCraft Tools by Maexx97 - _http://www.raceinfo.no/temp/tn_btools.jpg_
+* BuildCraft Tools by Maexx97 - _http://www.raceinfo.no/temp/tn_btools.jpg_ - http://www.minecraftforum.net/topic/1647902-
 * Carboniferous by TheCarboniferousTeam - _http://goo.gl/QKtJP_ http://www.minecraftforum.net/topic/1812591-
 * Chargepads by Myrathi - __Public perms__ http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43098
 * Chest Transporter - __Public perms__ - http://www.minecraftforum.net/topic/506109-147-cubex2s-mods-multi-page-chest-updated/
