@@ -1,3 +1,10 @@
+V11.6 
+* Added Ars Magica  
+* Added Buildcraft Tools  
+* Updated Builcraft to build 205  
+* Updated LOTR to beta 6.2  
+
+
 V11.5  
 * Forge updated to 7.8.0.716  
 * Buildcraft Updated to 1.5.2-jenkins-Buildcraft-204.204.jar  
