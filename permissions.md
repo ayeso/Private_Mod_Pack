@@ -5,6 +5,7 @@ Permissionlist for private modpack:
 * Applied Energistics by AlgorithmX2 - __Public perms__ "Yes, I've officially opened up all my restrictions on this." - http://ae-mod.info/Frequently-Asked-Questions/
 * Amnesia Soundpack by sonic222333 - _Permission pending_ - http://www.minecraftforum.net/topic/1787145-
 * Auditori by Huuricaaane - _All modpacks allowed_ http://www.minecraftforum.net/topic/1542510-
+* Ars Magica - _Private Modpacks are allowed_ http://www.minecraftforum.net/topic/1486184-ars-magica-v552012-updated-june-2/
 * BiblioCraft by Nuchaz - __Public perms pending__ http://www.raceinfo.no/temp/biblio.jpg - http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v102-bookcases-armor-stands-shelves-and-more-updated-02122013/
 * BrainTech Author by "I don't now" - __Mod not updated to 1.5.x__ http://www.raceinfo.no/temp/badp-perm.jpg
 * Builcraft by SirSengir - __Public perms using FTB launcher__ http://forum.feed-the-beast.com/threads/ftb-central-mod-permissions.3801/#post-43242
