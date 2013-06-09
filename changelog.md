@@ -1,3 +1,7 @@
+V11.61
+* Updated Ars Magica to 5.52.013
+* Added MyPeople 1.1.4
+
 V11.6 
 * Added Ars Magica  
 * Added Buildcraft Tools  
