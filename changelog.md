@@ -1,6 +1,7 @@
 V11.61
 * Updated Ars Magica to 5.52.013
 * Added MyPeople 1.1.4
+* Minor changes done to Ars Magica, Id issues
 
 V11.6 
 * Added Ars Magica  
