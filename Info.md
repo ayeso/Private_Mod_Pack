@@ -3,7 +3,8 @@ Mod Pack Name: Extended
 MultiMC instance download:   
   
 Minecraft 1.5.2 
-* v11.6: - https://dl.dropboxusercontent.com/u/101191379/v11.6.zip  
+* v11.61: https://dl.dropboxusercontent.com/u/101191379/v11.61.zip  
+* v11.6: https://dl.dropboxusercontent.com/u/101191379/v11.6.zip  
 * v11.6 MultiMc fixed files : - https://dl.dropboxusercontent.com/u/101191379/Extended1161change.zip  
 
 
