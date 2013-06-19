@@ -42,6 +42,8 @@ Permissionlist for private modpack:
 * IronChests by cpw	- __Spreadsheet__ http://www.minecraftforum.net/topic/981855-147-13w02b-forge-universal-ironchests-50-obsidian-chests/
 * Jammy Furniture by Jammy780 - http://www.raceinfo.no/temp/jammy.jpg - http://www.minecraftforum.net/topic/1098808-v41-147-forge-smp-jammy-furniture-mod/
 * Liquid Metals by fred4106 - http://www.raceinfo.no/temp/liquidmetals.jpg - http://www.minecraftforum.net/topic/1614036-1467-bc-addon-liquid-metals-0116/
+* Magic Bees by MysteriousAges - _Permitted to redistribute as from the forumpost_ - http://www.minecraftforum.net/topic/1627856-
+* Thaumic Tinkerer by Vazkii - _Allowed where Thaumcraft 3 is allowed_ - http://www.minecraftforum.net/topic/1813058-
 * McCapes by Alphaest - http://www.raceinfo.no/temp/mccapes.jpg - Coremod has no website since its custom made just for us
 * Millenare by Kinniken - http://www.raceinfo.no/temp/millenaire.jpg - http://www.millenaire.org/
 * Mekanism by aidancbrady - Under open license due credits made - http://forum.industrial-craft.net/index.php?page=Thread&threadID=8866
