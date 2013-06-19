@@ -4,7 +4,6 @@ MultiMC instance download:
   
 Minecraft 1.5.2 
 * v11.7: https://dl.dropboxusercontent.com/u/101191379/v11.7.zip 
-* v11.6 MultiMc fixed files : - https://dl.dropboxusercontent.com/u/101191379/Extended1161change.zip  
 
 
 Beta 1.5.1 (not for FTB in its current state)  
@@ -16,6 +15,7 @@ Current private modpackcode: OJ3TGHBT1O
  
 Older Verions for 1.5.2:  
 * v11.61: - https://dl.dropboxusercontent.com/u/101191379/v11.61.zip  
+* v11.6 MultiMc fixed files : - https://dl.dropboxusercontent.com/u/101191379/Extended1161change.zip  
 * v11.6: -  https://dl.dropboxusercontent.com/u/101191379/v11.6.zip 
 * v11.5: -  https://dl.dropboxusercontent.com/u/101191379/v11.5.zip 
 * v11.4: -  https://dl.dropboxusercontent.com/u/101191379/v11.4.zip 
