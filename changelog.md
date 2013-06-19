@@ -1,3 +1,6 @@
+V11.7  
+* Updated Applied Energertics to rv11-b
+
 V11.62  
 * Updated Buildcraft to build 213 - http://nallar.me/buildservice/job/Buildcraft/  
   
