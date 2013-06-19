@@ -1,5 +1,8 @@
 V11.7  
 * Updated Applied Energertics to rv11-b
+* Updated Forestry to 2.2.8.1
+* Updated Extra Bees to 1.6pre15
+* Updated Thaumic Bees to Magic Bees 2.0.2
 
 V11.62  
 * Updated Buildcraft to build 213 - http://nallar.me/buildservice/job/Buildcraft/  
