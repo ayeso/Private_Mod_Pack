@@ -3,8 +3,7 @@ Mod Pack Name: Extended
 MultiMC instance download:   
   
 Minecraft 1.5.2 
-* v11.61: https://dl.dropboxusercontent.com/u/101191379/v11.61.zip  
-* v11.6: https://dl.dropboxusercontent.com/u/101191379/v11.6.zip  
+* v11.7: https://dl.dropboxusercontent.com/u/101191379/v11.7.zip 
 * v11.6 MultiMc fixed files : - https://dl.dropboxusercontent.com/u/101191379/Extended1161change.zip  
 
 
@@ -16,10 +15,12 @@ IRC: ftb-craft @ espernet
 Current private modpackcode: OJ3TGHBT1O
  
 Older Verions for 1.5.2:  
-* v11.5: - https://dl.dropboxusercontent.com/u/101191379/v11.5.zip 
-* v11.4: - https://dl.dropboxusercontent.com/u/101191379/v11.4.zip 
-* v11.3: - https://dl.dropboxusercontent.com/u/101191379/v11.3.zip 
-* v11.2: - https://dl.dropboxusercontent.com/u/101191379/v11.2.zip 
+* v11.61: - https://dl.dropboxusercontent.com/u/101191379/v11.61.zip  
+* v11.6: -  https://dl.dropboxusercontent.com/u/101191379/v11.6.zip 
+* v11.5: -  https://dl.dropboxusercontent.com/u/101191379/v11.5.zip 
+* v11.4: -  https://dl.dropboxusercontent.com/u/101191379/v11.4.zip 
+* v11.3: -  https://dl.dropboxusercontent.com/u/101191379/v11.3.zip 
+* v11.2: -  https://dl.dropboxusercontent.com/u/101191379/v11.2.zip 
  
 Older versions for 1.5.1:  
 * v10.2.0: https://dl.dropboxusercontent.com/u/101191379/V10.2.0.zip
