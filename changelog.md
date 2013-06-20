@@ -1,3 +1,9 @@
+V11.72
+* Updated MPS to 537
+* Updated MPSA to 0.2.3-157
+* Updated GregTech to 3.07i  
+Zipfile for MultiMC users: https://dl.dropboxusercontent.com/u/101191379/v11.72changes.zip
+
 V11.7  
 * Updated Applied Energertics to rv11-b
 * Updated Forestry to 2.2.8.1
